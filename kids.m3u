@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,THE CROODS 
+plugin://plugin.video.youtube/?action=play_video&videoid=Ehu_cYeuSOg
+
 #EXTINF:1,ΖΑΜΠΙΖΙΑ - ΠΟΥΛΙΑ ΣΤΟΝ ΑΕΡΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=RmmnCbAZq0E
 
