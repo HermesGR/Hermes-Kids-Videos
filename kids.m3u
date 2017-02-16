@@ -1,6 +1,19 @@
-# Hermes-Kids-Videos
-
 #EXTM3U
+
+#EXTINF:1,Pokemon:Arceus and the Jewel of Life[Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=HvkEtHENxQA
+
+#EXTINF:1,Pokemon:Zoroark Master of Illusions[Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=cJzWJclzoL4
+
+#EXTINF:1,Pokemon:Black—Victini and Reshiram[Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=5IBdR0k-rdU
+
+#EXTINF:1,Pokemon:Kyurem Vs. The Sword of Justice [Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=uxxbgIok1aY
+
+#EXTINF:1,Pokemon:Genesect and the Legend Awakened[Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=7EX7d3Uweng
 
 #EXTINF:1,THE CROODS 
 plugin://plugin.video.youtube/?action=play_video&videoid=Ehu_cYeuSOg
@@ -11,8 +24,14 @@ plugin://plugin.video.youtube/?action=play_video&videoid=RmmnCbAZq0E
 #EXTINF:1,ΑΣΤΕΡΙΞ - Η ΚΑΤΟΙΚΙΑ ΤΩΝ ΘΕΩΝ
 plugin://plugin.video.youtube/?action=play_video&videoid=4A9d65SUXiY
 
+#EXTINF:1,ΝΑΓΙΑ vs ΒΑΣΙΛΙΑ ΔΡΑΚΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=d45nkYlEXUQ
+
 #EXTINF:1,PLAYMOBIL 
 plugin://plugin.video.youtube/?action=play_video&videoid=2O4CE6tXL0U
+
+#EXTINF:1,ΤΑ ΤΑΞΙΔΙΑ ΤΟΥ GULLIVER
+plugin://plugin.video.youtube/?action=play_video&videoid=WR7W0S9AOcE
 
 #EXTINF:1,BARBIE ΣΤΟ ΜΥΣΤΙΚΟ ΒΑΣΙΛΕΙΟ
 plugin://plugin.video.youtube/?action=play_video&videoid=eRHhcSJtBOc
@@ -284,4 +303,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=tVuP87AnPGs
 #EXTINF:1,Ο ΜΙΚΡΟΣ ΤΥΜΠΑΝΙΣΤΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=HvuyyTTQH9w
 
+#EXTINF:1,SPORT BILLY 
+plugin://plugin.video.youtube/?action=play_video&videoid=sR1DNj9Qo2Y
 
