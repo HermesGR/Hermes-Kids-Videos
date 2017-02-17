@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:1,O ΜΙΚΡΟΣ ΝΙΚΟΛΑΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=s34L_57grCc
+
+#EXTINF:1,O ΜΙΚΡΟΣ ΝΙΚΟΛΑΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=t1A9JgSKvyE
+
+#EXTINF:1,O ΜΙΚΡΟΣ ΝΙΚΟΛΑΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=f81DYlUvA7U
+
+#EXTINF:1,O ΜΙΚΡΟΣ ΝΙΚΟΛΑΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=02Lr0Dq58LM
+
+#EXTINF:1,O ΜΙΚΡΟΣ ΝΙΚΟΛΑΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=8FodPC02tAc
+
+#EXTINF:1,O ΜΙΚΡΟΣ ΝΙΚΟΛΑΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=KEHzBj2nFfg
+
+#EXTINF:1,O ΜΙΚΡΟΣ ΝΙΚΟΛΑΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=v4MP0HlMSiw
+
+#EXTINF:1,O ΜΙΚΡΟΣ ΝΙΚΟΛΑΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=aQ7CLc7Qeys
+
+#EXTINF:1,ΠΕΠΠΑ ΤΟ ΓΟΥΡΟΥΝΑΚΙ
+plugin://plugin.video.youtube/?action=play_video&videoid=XEs5K5A5eTg
+
+#EXTINF:1,ΠΕΠΠΑ ΤΟ ΓΟΥΡΟΥΝΑΚΙ 
+plugin://plugin.video.youtube/?action=play_video&videoid=ZSklN0Ge3ao
+
+#EXTINF:1,ΠΕΠΠΑ ΤΟ ΓΟΥΡΟΥΝΑΚΙ
+plugin://plugin.video.youtube/?action=play_video&videoid=Z4G3aUFmj2I
+
+#EXTINF:1,Χελωνονιντζάκια Teenage Mutant Ninja Turtles
+plugin://plugin.video.youtube/?action=play_video&videoid=VuET_wa-12o
+
 #EXTINF:1,Pokemon:Arceus and the Jewel of Life[Μεταγλωτισμένο]
 plugin://plugin.video.youtube/?action=play_video&videoid=HvkEtHENxQA
 
@@ -29,6 +65,18 @@ plugin://plugin.video.youtube/?action=play_video&videoid=d45nkYlEXUQ
 
 #EXTINF:1,PLAYMOBIL 
 plugin://plugin.video.youtube/?action=play_video&videoid=2O4CE6tXL0U
+
+#EXTINF:1,ΟΙ ΜΟΥΣΙΚΑΝΤΙΔΕΣ ΤΗΣ ΒΡΕΜΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=CYwLWubJ4GU
+
+#EXTINF:1,ΟΙ 6 ΥΠΗΡΕΤΕΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=WCXoHB8JZI
+
+#EXTINF:1,Ο ΠΙΣΤΟΣ ΙΩΑΝΝΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=zcg-33J5Ng8
+
+#EXTINF:1,Ο ΛΥΚΟΣ ΚΑΙ ΤΑ 7 ΚΑΤΣΙΚΑΚΙΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=GMF07bqhshk
 
 #EXTINF:1,ΤΑ ΤΑΞΙΔΙΑ ΤΟΥ GULLIVER
 plugin://plugin.video.youtube/?action=play_video&videoid=WR7W0S9AOcE
@@ -305,4 +353,5 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HvuyyTTQH9w
 
 #EXTINF:1,SPORT BILLY 
 plugin://plugin.video.youtube/?action=play_video&videoid=sR1DNj9Qo2Y
+
 
