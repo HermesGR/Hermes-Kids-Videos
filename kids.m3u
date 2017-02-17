@@ -66,11 +66,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=d45nkYlEXUQ
 #EXTINF:1,PLAYMOBIL 
 plugin://plugin.video.youtube/?action=play_video&videoid=2O4CE6tXL0U
 
-#EXTINF:1,ΟΙ ΜΟΥΣΙΚΑΝΤΙΔΕΣ ΤΗΣ ΒΡΕΜΗΣ
+#EXTINF:1,Οι Μουσικάντιδες Της Βρέμης
 plugin://plugin.video.youtube/?action=play_video&videoid=CYwLWubJ4GU
-
-#EXTINF:1,ΟΙ 6 ΥΠΗΡΕΤΕΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=WCXoHB8JZI
 
 #EXTINF:1,Ο ΠΙΣΤΟΣ ΙΩΑΝΝΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=zcg-33J5Ng8
