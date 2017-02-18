@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:1,ΕΝΑ ΔΕΝΤΡΟ ΜΙΑ ΦΟΡΑ - Η ΤΑΙΝΙΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=Lal-RBkMVrA
+
+#EXTINF:1,ΟΝΕΙΡΟΥΠΟΛΗ ΔΡΑΜΑΣ - ΠΑΙΔΙΚΗ ΤΑΙΝΙΑ 3D
+plugin://plugin.video.youtube/?action=play_video&videoid=B93kv-57Qf8
+
+#EXTINF:1,ΜΑΓΙΑ Η ΜΕΛΙΣΣΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=ISsytBKlQZU
+
+#EXTINF:1,LALALOOPSY
+plugin://plugin.video.youtube/?action=play_video&videoid=gMgDy8UDg1o
+
+#EXTINF:1,ΝΤΟΡΑ Η ΜΙΚΡΗ ΕΞΕΡΕΥΝΗΤΡΙΑ 
+plugin://plugin.video.youtube/?action=play_video&videoid=juG2aC0JGb4
+
+#EXTINF:1,ΝΤΟΡΑ Η ΜΙΚΡΗ ΕΞΕΡΕΥΝΗΤΡΙΑ 
+plugin://plugin.video.youtube/?action=play_video&videoid=KRjgHJsrTJY
+
+#EXTINF:1,Ο ΜΠΑΡΝΙ ΚΑΙ ΟΙ ΦΙΛΟΙ ΤΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=QlsqbbaWcJU
+
+#EXTINF:1,Ο ΜΠΑΡΝΙ ΚΑΙ ΟΙ ΦΙΛΟΙ ΤΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=PJPzdI9h6TY
+
+#EXTINF:1,Ο ΜΠΑΡΝΙ ΚΑΙ ΟΙ ΦΙΛΟΙ ΤΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=Qv0ZW5lGHoo
+
+#EXTINF:1,Ο ΜΠΑΡΝΙ ΚΑΙ ΟΙ ΦΙΛΟΙ ΤΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=cdiatJiBCgw
+
 #EXTINF:1,O ΜΙΚΡΟΣ ΝΙΚΟΛΑΣ 
 plugin://plugin.video.youtube/?action=play_video&videoid=s34L_57grCc
 
