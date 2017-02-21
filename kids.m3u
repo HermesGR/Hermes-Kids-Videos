@@ -195,9 +195,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=Eg5dTFnu5ds
 #EXTINF:1,Οι Μουσικάντιδες Της Βρέμης
 plugin://plugin.video.youtube/?action=play_video&videoid=CYwLWubJ4GU
 
-#EXTINF:1,Ο ΠΙΣΤΟΣ ΙΩΑΝΝΗΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=zcg-33J5Ng8
-
 #EXTINF:1,Ο ΛΥΚΟΣ ΚΑΙ ΤΑ 7 ΚΑΤΣΙΚΑΚΙΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=GMF07bqhshk
 
@@ -308,6 +305,18 @@ plugin://plugin.video.youtube/?action=play_video&videoid=kgZRvCVZb2k
 
 #EXTINF:1,ΧΑΝΣΕΛ ΚΑΙ ΓΡΕΤΕΛ
 plugin://plugin.video.youtube/?action=play_video&videoid=VR08R1-4qIM
+
+#EXTINF:1,ΚΛΙΦΟΡΝΤ Ο ΚΟΚΚΙΝΟΣ ΣΚΥΛΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=4RDm5bHmcE4
+
+#EXTINF:1,ΤΟ ΚΟΡΙΤΣΙ ΤΟΥ ΩΚΕΑΝΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=ABVfkawdbxw
+
+#EXTINF:1,ΤΟ ΠΑΡΔΑΛΟ ΨΑΡΑΚΙ
+plugin://plugin.video.youtube/?action=play_video&videoid=_3tyJkWUcG4
+
+#EXTINF:1,ΟΙ ΑΓΡΙΟΙ ΚΥΚΝΟΙ
+plugin://plugin.video.youtube/?action=play_video&videoid=3Odc6tDYI0c
 
 #EXTINF:1,ΤΟ ΠΟΝΤΙΚΑΚΙ ΠΟΥ ΗΘΕΛΕ ΝΑ ΑΓΓΙΞΕΙ ΕΝΑ ΑΣΤΕΡΙ
 plugin://plugin.video.youtube/?action=play_video&videoid=wnqH47WAEpU
@@ -464,6 +473,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=hoOKt7SVg0M
 
 #EXTINF:1,ΦΡΑΝΚΛΙΝ, ΜΑΓΙΚΑ ΧΡΙΣΤΟΥΓΕΝΝΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=OMKB6BAJnH0
+
+#EXTINF:1,Ο ΦΕΛΙΞ Ο ΓΑΤΟΣ ΣΩΖΕΙ ΤΑ ΧΡΙΣΤΟΥΓΕΝΝΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=0druAyawXZQ
 
 #EXTINF:1,ΧΡΙΣΤΟΥΓΕΝΝΑ ΜΕ ΤΗΝ ΦΡΑΟΥΛΙΤΣΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=9giX-777P9c
