@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:1,Kung Fu Panda Holiday [Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=Is9eo8ixMY
+
+#EXTINF:1,ΟΙ ΠΕΡΙΠΕΤΕΙΕΣ ΤΟΥ ΓΑΤΟΥ ΣΠΙΡΟΥΝΑΤΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=vnbPRV8tECw
+
+#EXTINF:1,Pokemon Heroes (2003) [Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=fW5_G5uywsw
+
+#EXTINF:1,Ο τρομερός Gaturo [Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=iv8TvctYoZE
+
+#EXTINF:1,STAR WARS THE CLONE WARS [Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=GhkCI8acDU4
+
+#EXTINF:1,Μπάρμπι σχολείο για πριγκίπισσες
+plugin://plugin.video.youtube/?action=play_video&videoid=YtxJGPINfLU
+
+#EXTINF:1,Η Μπαλάντα Των Ντάλτον 
+plugin://plugin.video.youtube/?action=play_video&videoid=Aw_D6Azhsyc
+
+#EXTINF:1,Οι Περιπέτειες του Λούκυ Λούκ
+plugin://plugin.video.youtube/?action=play_video&videoid=yeOL3X7rOT4
+
+#EXTINF:1,ΙΣΤΟΡΙΕΣ ΤΟΥ ΚΟΥΣΤΩ 
+plugin://plugin.video.youtube/?action=play_video&videoid=vvbVWIIHD-8
+
 #EXTINF:1,ΕΝΑ ΔΕΝΤΡΟ ΜΙΑ ΦΟΡΑ - Η ΤΑΙΝΙΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=Lal-RBkMVrA
 
@@ -26,72 +53,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=ISsytBKlQZU
 
 #EXTINF:1,LALALOOPSY
 plugin://plugin.video.youtube/?action=play_video&videoid=gMgDy8UDg1o
-
-#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
-plugin://plugin.video.youtube/?action=play_video&videoid=CXfV_ua4Y0Y
-
-#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
-plugin://plugin.video.youtube/?action=play_video&videoid=QpK77-Er8oI
-
-#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
-plugin://plugin.video.youtube/?action=play_video&videoid=VK6zl1iISXE
-
-#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
-plugin://plugin.video.youtube/?action=play_video&videoid=CpE59AuYBDY
-
-#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
-plugin://plugin.video.youtube/?action=play_video&videoid=tgcyCZaXjvM
-
-#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
-plugin://plugin.video.youtube/?action=play_video&videoid=Gur3Mfxb9bA
-
-#EXTINF:1,Ο ΒΑΣΙΛΙΑΣ ΤΖΟΥΛΙΑΝ
-plugin://plugin.video.youtube/?action=play_video&videoid=yl6UajspdXI
-
-#EXTINF:1,THE GARFIELD SHOW
-plugin://plugin.video.youtube/?action=play_video&videoid=00b2rGmGcLI
-
-#EXTINF:1,THE GARFIELD SHOW
-plugin://plugin.video.youtube/?action=play_video&videoid=bJowXdbEQO0
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.1)
-plugin://plugin.video.youtube/?action=play_video&videoid=wi3vvDJG_5I
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.2)
-plugin://plugin.video.youtube/?action=play_video&videoid=RczDwXJDUOU
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.3)
-plugin://plugin.video.youtube/?action=play_video&videoid=7sDzhvfSN4M
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.4)
-plugin://plugin.video.youtube/?action=play_video&videoid=GH68Jl9_rBA
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.5)
-plugin://plugin.video.youtube/?action=play_video&videoid=o2Cixi6UYVE
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.6)
-plugin://plugin.video.youtube/?action=play_video&videoid=WbyHla6Jr9w
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.7)
-plugin://plugin.video.youtube/?action=play_video&videoid=EAdQy4lZF3o
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.9)
-plugin://plugin.video.youtube/?action=play_video&videoid=hBb4YMUPPRw
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.10)
-plugin://plugin.video.youtube/?action=play_video&videoid=hBb4YMUPPRw
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.11)
-plugin://plugin.video.youtube/?action=play_video&videoid=AqOjS-Kz6uw
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.12)
-plugin://plugin.video.youtube/?action=play_video&videoid=HNcicgq4tmc
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.13)
-plugin://plugin.video.youtube/?action=play_video&videoid=tWGPRhjyAaE
-
-#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.15)
-plugin://plugin.video.youtube/?action=play_video&videoid=97hTCOIfgxk
 
 #EXTINF:1,ΠΙΠΗ ΦΑΚΙΔΟΜΥΤΗ
 plugin://plugin.video.youtube/?action=play_video&videoid=9M9owtT15oc
@@ -155,6 +116,15 @@ plugin://plugin.video.youtube/?action=play_video&videoid=Z4G3aUFmj2I
 
 #EXTINF:1,Χελωνονιντζάκια Teenage Mutant Ninja Turtles
 plugin://plugin.video.youtube/?action=play_video&videoid=VuET_wa-12o
+
+#EXTINF:1,Pokémon 1:The First Movie [Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=xSfR6ghE9kg
+
+#EXTINF:1,Pokémon 2:The Power of One [Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=g1rmwl9jGLU
+
+#EXTINF:1,Pokémon 3:Spell of the Unown [Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=NS5OgkMGAlA
 
 #EXTINF:1,Pokemon:Arceus and the Jewel of Life[Μεταγλωτισμένο]
 plugin://plugin.video.youtube/?action=play_video&videoid=HvkEtHENxQA
@@ -491,5 +461,71 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HvuyyTTQH9w
 
 #EXTINF:1,SPORT BILLY 
 plugin://plugin.video.youtube/?action=play_video&videoid=sR1DNj9Qo2Y
+
+#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
+plugin://plugin.video.youtube/?action=play_video&videoid=CXfV_ua4Y0Y
+
+#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
+plugin://plugin.video.youtube/?action=play_video&videoid=QpK77-Er8oI
+
+#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
+plugin://plugin.video.youtube/?action=play_video&videoid=VK6zl1iISXE
+
+#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
+plugin://plugin.video.youtube/?action=play_video&videoid=CpE59AuYBDY
+
+#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
+plugin://plugin.video.youtube/?action=play_video&videoid=tgcyCZaXjvM
+
+#EXTINF:1,ΜΠΟΜΠΙ ΚΑΙ ΜΠΙΛ
+plugin://plugin.video.youtube/?action=play_video&videoid=Gur3Mfxb9bA
+
+#EXTINF:1,Ο ΒΑΣΙΛΙΑΣ ΤΖΟΥΛΙΑΝ
+plugin://plugin.video.youtube/?action=play_video&videoid=yl6UajspdXI
+
+#EXTINF:1,THE GARFIELD SHOW
+plugin://plugin.video.youtube/?action=play_video&videoid=00b2rGmGcLI
+
+#EXTINF:1,THE GARFIELD SHOW
+plugin://plugin.video.youtube/?action=play_video&videoid=bJowXdbEQO0
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.1)
+plugin://plugin.video.youtube/?action=play_video&videoid=wi3vvDJG_5I
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.2)
+plugin://plugin.video.youtube/?action=play_video&videoid=RczDwXJDUOU
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.3)
+plugin://plugin.video.youtube/?action=play_video&videoid=7sDzhvfSN4M
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.4)
+plugin://plugin.video.youtube/?action=play_video&videoid=GH68Jl9_rBA
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.5)
+plugin://plugin.video.youtube/?action=play_video&videoid=o2Cixi6UYVE
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.6)
+plugin://plugin.video.youtube/?action=play_video&videoid=WbyHla6Jr9w
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.7)
+plugin://plugin.video.youtube/?action=play_video&videoid=EAdQy4lZF3o
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.9)
+plugin://plugin.video.youtube/?action=play_video&videoid=hBb4YMUPPRw
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.10)
+plugin://plugin.video.youtube/?action=play_video&videoid=hBb4YMUPPRw
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.11)
+plugin://plugin.video.youtube/?action=play_video&videoid=AqOjS-Kz6uw
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.12)
+plugin://plugin.video.youtube/?action=play_video&videoid=HNcicgq4tmc
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.13)
+plugin://plugin.video.youtube/?action=play_video&videoid=tWGPRhjyAaE
+
+#EXTINF:1,ΧΑΙΝΤΙ 2016 (ΕΠΕΙΣ.15)
+plugin://plugin.video.youtube/?action=play_video&videoid=97hTCOIfgxk
 
 
