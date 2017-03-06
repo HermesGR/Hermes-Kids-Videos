@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:1,Kung Fu Panda Holiday (Μεταγλωτισμένο)
-plugin://plugin.video.youtube/?action=play_video&videoid=Is9eo8ixMY
-
 #EXTINF:1,ΟΙ ΠΕΡΙΠΕΤΕΙΕΣ ΤΟΥ ΓΑΤΟΥ ΣΠΙΡΟΥΝΑΤΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=vnbPRV8tECw
 
