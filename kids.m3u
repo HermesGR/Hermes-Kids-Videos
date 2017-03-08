@@ -9,12 +9,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=QbGmGFuurxg
 #EXTINF:1,Απόδραση Από Τη Γη - Μεταγλωτισμένο
 plugin://plugin.video.youtube/?action=play_video&videoid=E9wvGuHYAAQ
 
-#EXTINF:1,Μπόμπι και Μπιλ
-plugin://plugin.video.youtube/?action=play_video&videoid=wmrp792J_PE
-
-#EXTINF:1,Μπόμπι και Μπιλ 
-plugin://plugin.video.youtube/?action=play_video&videoid=ghOAPwEpP0o
-
 #EXTINF:1,Το Ιπτάμενο Μπαούλο
 plugin://plugin.video.youtube/?action=play_video&videoid=vxS4D3v10H4
 
