@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:1,Kung Fu Panda Holiday
+plugin://plugin.video.youtube/?action=play_video&videoid=-Is9eo8ixMY
+
+#EXTINF:1,Μπάρμπι σε μια απίθανη Κουβατοπεριπέτεια
+plugin://plugin.video.youtube/?action=play_video&videoid=QbGmGFuurxg
+
+#EXTINF:1,Απόδραση Από Τη Γη - Μεταγλωτισμένο
+plugin://plugin.video.youtube/?action=play_video&videoid=E9wvGuHYAAQ
+
+#EXTINF:1,Μπόμπι και Μπιλ
+plugin://plugin.video.youtube/?action=play_video&videoid=wmrp792J_PE
+
+#EXTINF:1,Μπόμπι και Μπιλ 
+plugin://plugin.video.youtube/?action=play_video&videoid=ghOAPwEpP0o
+
+#EXTINF:1,Το Ιπτάμενο Μπαούλο
+plugin://plugin.video.youtube/?action=play_video&videoid=vxS4D3v10H4
+
+#EXTINF:1,ΦΛΙΠΕΡ Η ΑΣΠΡΗ ΦΑΛΑΙΝΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=BdL-Ws-Z0cU
+
+#EXTINF:1,Φλίπερ το δελφίνι - Η χαμένη πόλη
+plugin://plugin.video.youtube/?action=play_video&videoid=PYijmnSLM_4
+
+#EXTINF:1,Φλίπερ & Λοπάκα 
+plugin://plugin.video.youtube/?action=play_video&videoid=REfz6dCzzg4
+
 #EXTINF:1,ΟΙ ΠΕΡΙΠΕΤΕΙΕΣ ΤΟΥ ΓΑΤΟΥ ΣΠΙΡΟΥΝΑΤΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=vnbPRV8tECw
 
