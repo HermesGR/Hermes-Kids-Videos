@@ -9,6 +9,36 @@ plugin://plugin.video.youtube/?action=play_video&videoid=QbGmGFuurxg
 #EXTINF:1,Απόδραση Από Τη Γη - Μεταγλωτισμένο
 plugin://plugin.video.youtube/?action=play_video&videoid=E9wvGuHYAAQ
 
+#EXTINF:1,DINOFROZ 1
+plugin://plugin.video.youtube/?action=play_video&videoid=CD4jo85CTjg
+
+#EXTINF:1,DINOFROZ 2
+plugin://plugin.video.youtube/?action=play_video&videoid=Jvo9mJfESgU
+
+#EXTINF:1,DINOFROZ 3
+plugin://plugin.video.youtube/?action=play_video&videoid=9Dvposo6ifU
+
+#EXTINF:1,DINOFROZ 4
+plugin://plugin.video.youtube/?action=play_video&videoid=YgElDxbhhSE
+
+#EXTINF:1,DINOFROZ 5
+plugin://plugin.video.youtube/?action=play_video&videoid=90kGRsMfhBo
+
+#EXTINF:1,DINOFROZ 6
+plugin://plugin.video.youtube/?action=play_video&videoid=9_Topt092Ow
+
+#EXTINF:1,DINOFROZ 7
+plugin://plugin.video.youtube/?action=play_video&videoid=vo9woyMLC3o
+
+#EXTINF:1,DINOFROZ 8
+plugin://plugin.video.youtube/?action=play_video&videoid=m8qemYTNv7Y
+
+#EXTINF:1,DINOFROZ 9
+plugin://plugin.video.youtube/?action=play_video&videoid=Zlo0HCDdM48
+
+#EXTINF:1,DINOFROZ 10
+plugin://plugin.video.youtube/?action=play_video&videoid=-xSApMvac1g
+
 #EXTINF:1,Το Ιπτάμενο Μπαούλο
 plugin://plugin.video.youtube/?action=play_video&videoid=vxS4D3v10H4
 
@@ -371,6 +401,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=WKWc5Fjnkfk
 
 #EXTINF:1,ΜΠΕΝ ΚΑΙ ΧΟΛΛΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=10pjPoCRT7g
+
+#EXTINF:1,ΜΠΑΝΑΝΕΣ ΜΕ ΠΥΤΖΑΜΕΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=A2lK7zO0-F4
+
+#EXTINF:1,ΗΡΩΕΣ ΜΕ ΠΥΤΖΑΜΕΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=bS8gCeaqAVg
 
 #EXTINF:1,ΗΡΩΕΣ ΜΕ ΠΥΤΖΑΜΕΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=c3Po1vEmUEM
