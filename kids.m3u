@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Έχετε Ακουστά για την Αγέλη; / Τζες ο Εσπερόρνης
+plugin://plugin.video.youtube/?action=play_video&videoid=1H8fEZJWavg
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Η Χελώνα της Τριαδικής / Το αδερφάκι του Τανκ
+plugin://plugin.video.youtube/?action=play_video&videoid=PKTjN2JXfRs
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Το Βασιλικό Φτερό / Ο Μεγάλος Βάλτος
+plugin://plugin.video.youtube/?action=play_video&videoid=INdZNx1x9O8
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Συνάθροιση Μικρών Ελεγκτών / Η Γρ. Τροδοντούπουλη γιορτάζει με Βασιλιά
+plugin://plugin.video.youtube/?action=play_video&videoid=e1YdQMe3ll8
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Ένας Μεγάλος Δεινόσαυρος / Παίζοντας με την Άννυ
+plugin://plugin.video.youtube/?action=play_video&videoid=8a68hTlkKoo
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Γρήγοροι Φίλοι / Τα Δόντια του Τυραννόσαυρου Ρεξ
+plugin://plugin.video.youtube/?action=play_video&videoid=T8FoSkqBPOI
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Είμαι ο Τυραννόσαυρος Ρεξ / Νεντ ο Βραχιόσαυρος
+plugin://plugin.video.youtube/?action=play_video&videoid=gTdI3kuJMSg
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Λώρα η Γιγαντόσαυρος / Ο Αδηφάγος Δεινόσαυρος
+plugin://plugin.video.youtube/?action=play_video&videoid=BoH_mmGihhM
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Το Κάλεσμα του Άγριου Κορυθόσαυρου / Το Γεύμα του Τρικεράτοπα
+plugin://plugin.video.youtube/?action=play_video&videoid=Au6Ux9_vDpI
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Καταπολεμώντας την Ζέστη / Λουλούδια για την Μαμά
+plugin://plugin.video.youtube/?action=play_video&videoid=b0WbAWsyrhI
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Θωρακισμένοι σαν Αγκυλόσαυροι / Παιχνίδια στην Εξοχή
+plugin://plugin.video.youtube/?action=play_video&videoid=dFhKDeROcMM
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Ένας Έξυπνος Δεινόσαυρος / Πέτυ ο Πετεινόσαυρος
+plugin://plugin.video.youtube/?action=play_video&videoid=wQXtBmH6CpA
+
 #EXTINF:1,Kung Fu Panda Holiday
 plugin://plugin.video.youtube/?action=play_video&videoid=-Is9eo8ixMY
 
