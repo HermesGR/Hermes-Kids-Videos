@@ -1,5 +1,50 @@
 #EXTM3U
 
+#EXTINF:1,Ρομπέν των δασών 2017 - Περιπέτειες στο Σέργουντ - Επεισόδιο 1 
+plugin://plugin.video.youtube/?action=play_video&videoid=phFKFFiaHtQ
+
+#EXTINF:1,Ρομπέν των δασών 2017 - Περιπέτειες στο Σέργουντ - Επεισόδιο 2 
+plugin://plugin.video.youtube/?action=play_video&videoid=Gtizn2RsqyI
+
+#EXTINF:1,Ρομπέν των δασών 2017 - Περιπέτειες στο Σέργουντ - Επεισόδιο 3
+plugin://plugin.video.youtube/?action=play_video&videoid=aBlKaEFN6fg
+
+#EXTINF:1,Ρομπέν των δασών 2017 - Περιπέτειες στο Σέργουντ - Επεισόδιο 4
+plugin://plugin.video.youtube/?action=play_video&videoid=UrNVJ2Epn_s
+
+#EXTINF:1,Κυνηγοί Δράκων 2017 - Drago Menta
+plugin://plugin.video.youtube/?action=play_video&videoid=aWVzxw8xnuM
+
+#EXTINF:1,Κυνηγοί Δράκων 2017 - Unwelcome Guests
+plugin://plugin.video.youtube/?action=play_video&videoid=R6ZWdair8-g
+
+#EXTINF:1,Κυνηγοί Δράκων 2017 - City Bound
+plugin://plugin.video.youtube/?action=play_video&videoid=M0MzYe6o0Kw
+
+#EXTINF:1,Κυνηγοί Δράκων 2017 - The Body Beautiful 
+plugin://plugin.video.youtube/?action=play_video&videoid=ktsMmsSbZGs
+
+#EXTINF:1,Κυνηγοί Δράκων 2017 - The Master of the Dragon
+plugin://plugin.video.youtube/?action=play_video&videoid=_ZH2C_Px00w
+
+#EXTINF:1,Κυνηγοί Δράκων 2017 - Hell Around Town
+plugin://plugin.video.youtube/?action=play_video&videoid=zv0-vtSKTcI
+
+#EXTINF:1,Κυνηγοί Δράκων 2017 - The High Life
+plugin://plugin.video.youtube/?action=play_video&videoid=icsi6fsT7Es
+
+#EXTINF:1,Κυνηγοί δράκων 2017 - Combat spores
+plugin://plugin.video.youtube/?action=play_video&videoid=j4BV7IWuEiI
+
+#EXTINF:1,Κυνηγοί δράκων 2017 - The convoy
+plugin://plugin.video.youtube/?action=play_video&videoid=wK7dxxAFm9Q
+
+#EXTINF:1,Κυνηγοί δράκων 2017 - The grand tournament
+plugin://plugin.video.youtube/?action=play_video&videoid=LGvn1TNS_EM
+
+#EXTINF:1,Κυνηγοί Δράκων 2017 - The Strange Taste of Cocomak
+plugin://plugin.video.youtube/?action=play_video&videoid=cYKJqNh2Vkg
+
 #EXTINF:1,Το Τραίνο των Δεινοσαύρων - Έχετε Ακουστά για την Αγέλη; / Τζες ο Εσπερόρνης
 plugin://plugin.video.youtube/?action=play_video&videoid=1H8fEZJWavg
 
