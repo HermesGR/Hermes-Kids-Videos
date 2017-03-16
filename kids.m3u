@@ -252,6 +252,30 @@ plugin://plugin.video.youtube/?action=play_video&videoid=dFhKDeROcMM
 #EXTINF:1,Το Τραίνο των Δεινοσαύρων - Ένας Έξυπνος Δεινόσαυρος / Πέτυ ο Πετεινόσαυρος
 plugin://plugin.video.youtube/?action=play_video&videoid=wQXtBmH6CpA
 
+#EXTINF:1,Το τραίνο των Δεινοσαύρων - Ο γεροσπινόσαυρος και η θάλασσα
+plugin://plugin.video.youtube/?action=play_video&videoid=esZMebpZCtg
+
+#EXTINF:1,Το τραίνο των Δεινοσαύρων - Η λέσχη με τους τυρόποδες
+plugin://plugin.video.youtube/?action=play_video&videoid=c3kyqrXHNMg
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Τα Κριτιδικά Σαγόνια της Κάρλας / Το τραίνο έχει Πρόβλημα
+plugin://plugin.video.youtube/?action=play_video&videoid=QYHNFkJePsI
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Παύλος ο Πλειόσαυρος / Ο Ερμής Επισκέπτεται την Έρημο
+plugin://plugin.video.youtube/?action=play_video&videoid=MRZ-7PHxPAQ
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Οι Εκπληκτικοί Αδερφοί Ορθόκεροι / Η Γιορτή του Πατέρα
+plugin://plugin.video.youtube/?action=play_video&videoid=8_asIBYWIrw
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Ντέρεκ ο Δεινόνυξ / Η Λιμπελλούλα του Ντον
+plugin://plugin.video.youtube/?action=play_video&videoid=40HkgUlQD7s
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Δειν/ροι σε Παραλλαγή / Η Οικογένεια Πτερανόδοντων Ψάχνει Σαρκοφάγα Φυτά
+plugin://plugin.video.youtube/?action=play_video&videoid=8F-vbV2SshM
+
+#EXTINF:1,Το Τραίνο των Δεινοσαύρων - Ο Βασιλιάς Κρυολοφόσαυρος / Φοίβος ο Ιχνηλάτης
+plugin://plugin.video.youtube/?action=play_video&videoid=KE9g96ZbTJw
+
 #EXTINF:1,Kung Fu Panda Holiday
 plugin://plugin.video.youtube/?action=play_video&videoid=-Is9eo8ixMY
 
