@@ -1,5 +1,89 @@
 #EXTM3U
 
+#EXTINF:1, ΒΑΤΜΑΝ
+plugin://plugin.video.youtube/?action=play_video&videoid=WuZTybXqXO4
+
+#EXTINF:1, Μαξ Στιλ "ΕΠΑΝΑΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ" 
+plugin://plugin.video.youtube/?action=play_video&videoid=voQad3H6xKo
+
+#EXTINF:1, MAX Atlantos 2 - Η ΕΠΙΣΤΡΟΦΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=rV9ACe35O9g
+
+#EXTINF:1, MAX Atlantos 2 - ΤΑ ΠΑΖΑΡΙΑ ΤΟΥ ΠΕΙΡΑΤΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=mK9weH_wRes
+
+#EXTINF:1, MAX Atlantos 2 - ΠΟΛΙΤΙΣΜΕΝΗ ΛΥΣΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=S9g17Mg-s_w
+
+#EXTINF:1, MAX Atlantos 2 -  ΠΡΩΤΗ ΣΥΝΑΝΤΗΣΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=--yL9Pg7yCs
+
+#EXTINF:1, MAX Atlantos 2 -  ΤΟ ΚΕΝΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=VKvv_XUdLNY
+
+#EXTINF:1, MAX Atlantos 2 - ΤΟ ΜΩΡΟ ΠΑΕΙ ΒΟΛΤΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=N9YMkFESJSA
+
+#EXTINF:1, MAX Atlantos 2 - ΕΣΚΑ Ο ΠΙΓΚΟΥΙΝΟΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=VYgtFUN35mM
+
+#EXTINF:1, Max Dinoterrra, Η Δύναμη
+plugin://plugin.video.youtube/?action=play_video&videoid=GttmQlNAJs4
+
+#EXTINF:1, Max Dinoterrra, Η Συμμαχία
+plugin://plugin.video.youtube/?action=play_video&videoid=US4luzjVLiQ
+
+#EXTINF:1, Max Dinoterrra, Νικώντας τον Βασιλιά
+plugin://plugin.video.youtube/?action=play_video&videoid=3cYEb8Oe4Vc
+
+#EXTINF:1, Max Dinoterrra, Αγώνας για την ειρήνη
+plugin://plugin.video.youtube/?action=play_video&videoid=49n22vPS5Ns
+
+#EXTINF:1, Max Dinoterrra, Πάνω στην κορυφή
+plugin://plugin.video.youtube/?action=play_video&videoid=fGS91VPOTSM
+
+#EXTINF:1, Max Dinoterrra,
+plugin://plugin.video.youtube/?action=play_video&videoid=4ZlD0nSJoCo
+
+#EXTINF:1, Max Dinoterrra,
+plugin://plugin.video.youtube/?action=play_video&videoid=JK4nhKlFAoU
+
+#EXTINF:1, Max Dinoterrra,
+plugin://plugin.video.youtube/?action=play_video&videoid=fP8PD7Bc-7s
+
+#EXTINF:1, Magilica - επεισόδιο 01
+plugin://plugin.video.youtube/?action=play_video&videoid=zfbMl021R_o
+
+#EXTINF:1, Magilica - επεισόδιο 02
+plugin://plugin.video.youtube/?action=play_video&videoid=G4Ua_5VtWSg
+
+#EXTINF:1, Magilica - επεισόδιο 03
+plugin://plugin.video.youtube/?action=play_video&videoid=jDxJ3ncXjgg
+
+#EXTINF:1, Magilica - επεισόδιο 04
+plugin://plugin.video.youtube/?action=play_video&videoid=utaqVCz_jFA
+
+#EXTINF:1, Magilica - επεισόδιο 05
+plugin://plugin.video.youtube/?action=play_video&videoid=L7f-Okai0x0
+
+#EXTINF:1, Magilica - επεισόδιο 06
+plugin://plugin.video.youtube/?action=play_video&videoid=2OSn8J05x6A
+
+#EXTINF:1, Magilica - επεισόδιο 07
+plugin://plugin.video.youtube/?action=play_video&videoid=ovgj-ajaVxk
+
+#EXTINF:1, Magilica - επεισόδιο 08
+plugin://plugin.video.youtube/?action=play_video&videoid=dyRPEEkXjxU
+
+#EXTINF:1, Magilica - επεισόδιο 09
+plugin://plugin.video.youtube/?action=play_video&videoid=z7B1Zr6Gqck
+
+#EXTINF:1, Magilica - επεισόδιο 10
+plugin://plugin.video.youtube/?action=play_video&videoid=eCyuG_DXGag
+
+#EXTINF:1, Magilica - επεισόδιο 11
+plugin://plugin.video.youtube/?action=play_video&videoid=ce3jfPm3FBg
+
 #EXTINF:1,Ρομπέν των δασών 2017 - Περιπέτειες στο Σέργουντ - Επεισόδιο 1 
 plugin://plugin.video.youtube/?action=play_video&videoid=phFKFFiaHtQ
 
