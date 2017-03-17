@@ -1,5 +1,80 @@
 #EXTM3U
 
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 1 
+plugin://plugin.video.youtube/?action=play_video&videoid=ab7Vp87Co2k
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 2
+plugin://plugin.video.youtube/?action=play_video&videoid=lUUjNaJMDsQ
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 3
+plugin://plugin.video.youtube/?action=play_video&videoid=UThOyMf--Hk
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 4
+plugin://plugin.video.youtube/?action=play_video&videoid=SDImX18iaI0
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 5
+plugin://plugin.video.youtube/?action=play_video&videoid=PnicqHgWkY8
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 6
+plugin://plugin.video.youtube/?action=play_video&videoid=LL1H90ZANR8
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 7
+plugin://plugin.video.youtube/?action=play_video&videoid=iYpyJqvBg7Y
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 8
+plugin://plugin.video.youtube/?action=play_video&videoid=kFiURxylFA8
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 9
+plugin://plugin.video.youtube/?action=play_video&videoid=1i9AJUdMIjo
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 10
+plugin://plugin.video.youtube/?action=play_video&videoid=8LT4rYsspDk
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 11
+plugin://plugin.video.youtube/?action=play_video&videoid=BT3bPLkpGHU
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 12
+plugin://plugin.video.youtube/?action=play_video&videoid=DZs0LkRvY2M
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 13
+plugin://plugin.video.youtube/?action=play_video&videoid=BtWedZUEERA
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 14
+plugin://plugin.video.youtube/?action=play_video&videoid=MWsOauBc6lA
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 15
+plugin://plugin.video.youtube/?action=play_video&videoid=tgjNXGQwOb0
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 16
+plugin://plugin.video.youtube/?action=play_video&videoid=CZK_6HuNPE4
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 17
+plugin://plugin.video.youtube/?action=play_video&videoid=YaB_SYYO0S0
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 18
+plugin://plugin.video.youtube/?action=play_video&videoid=bEJ1nJfu0E8
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 19
+plugin://plugin.video.youtube/?action=play_video&videoid=mhKQOvkSi5c
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 20
+plugin://plugin.video.youtube/?action=play_video&videoid=kITtOvoecB8
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 21
+plugin://plugin.video.youtube/?action=play_video&videoid=VrQbo_PlGdM
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 22
+plugin://plugin.video.youtube/?action=play_video&videoid=g6vbZiAb8hU
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 23
+plugin://plugin.video.youtube/?action=play_video&videoid=ZVonLtMtv4Q
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 24
+plugin://plugin.video.youtube/?action=play_video&videoid=2YRPe2sleTg
+
+#EXTINF:1, O Μικρός Πρίγκηπας - Επεισόδιο 25
+plugin://plugin.video.youtube/?action=play_video&videoid=eZjZZm8wwWI
+
 #EXTINF:1, ΒΑΤΜΑΝ
 plugin://plugin.video.youtube/?action=play_video&videoid=WuZTybXqXO4
 
