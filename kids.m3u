@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:1,THE CROODS 
 plugin://plugin.video.youtube/?action=play_video&videoid=Ehu_cYeuSOg
 
@@ -29,6 +30,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=ISsytBKlQZU
 
 #EXTINF:1,LALALOOPSY
 plugin://plugin.video.youtube/?action=play_video&videoid=gMgDy8UDg1o
+
+#EXTINF:1,ΠHΤΕΡ ΠΑΝ
+plugin://plugin.video.youtube/?action=play_video&videoid=STnEGsBmp6o
 
 #EXTINF:1,ΠΙΠΗ ΦΑΚΙΔΟΜΥΤΗ
 plugin://plugin.video.youtube/?action=play_video&videoid=9M9owtT15oc
