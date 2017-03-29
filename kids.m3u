@@ -1,6 +1,33 @@
 #EXTM3U
 
 
+#EXTINF:1,Ο ΣΑΜ ΚΑΙ ΤΟ ΜΥΣΤΗΡΙΩΔΕΣ ΝΗΣΙ
+plugin://plugin.video.youtube/?action=play_video&videoid=pbU32L1cyw8
+
+#EXTINF:1,Ο ΣΑΜ ΚΑΙ ΤΟ ΜΥΣΤΙΚΟ ΤΟΥ ΔΡΑΚΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=eMd_EX7AbRM
+
+#EXTINF:1,Ο ΣΑΜ ΚΑΙ ΟΙ ΠΕΙΡΑΤΕΣ ΤΩΝ ΘΑΛΑΣΣΩΝ
+plugin://plugin.video.youtube/?action=play_video&videoid=mX_584NN2rs
+
+#EXTINF:1,ΤΟ ΠΟΝΤΙΚΑΚΙ ΠΟΥ ΗΘΕΛΕ ΝΑ ΑΓΓΙΞΕΙ ΕΝΑ ΑΣΤΕΡΑΚΙ
+plugin://plugin.video.youtube/?action=play_video&videoid=wnqH47WAEpU
+
+#EXTINF:1,Ο ΠΑΠΟΥΤΣΟΜΕΝΟΣ ΓΑΤΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=IX4pDTIpLfc
+
+#EXTINF:1,Ο ΒΑΣΙΛΙΑΣ ΒΑΤΡΑΧΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=uNbPplUuulw
+
+#EXTINF:1,Ο ΓΕΝΝΑΙΟΣ ΡΑΦΤΑΚΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=T62iVPpzNes
+
+#EXTINF:1,ΟΙ 6 ΥΠΗΡΕΤΕΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=WCXoHB8JZI
+
+#EXTINF:1,ΑΣΤΕΡΙΞ ΚΑΙ ΟΙ ΙΝΔΙΑΝΟΙ
+plugin://plugin.video.youtube/?action=play_video&videoid=DW0_UH0X6VY
+
 #EXTINF:1,THE CROODS 
 plugin://plugin.video.youtube/?action=play_video&videoid=Ehu_cYeuSOg
 
@@ -879,15 +906,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=Fxhere6fwIQ
 
 #EXTINF:1,ΔΑΒΙΔ & ΓΟΛΙΑΘ
 plugin://plugin.video.youtube/?action=play_video&videoid=zKWfnvZ7kIY
-
-#EXTINF:1,Ο ΣΑΜ ΚΑΙ ΤΟ ΜΥΣΤΗΡΙΩΔΕΣ ΝΗΣΙ
-plugin://plugin.video.youtube/?action=play_video&videoid=pbU32L1cyw8
-
-#EXTINF:1,Ο ΣΑΜ ΚΑΙ ΤΟ ΜΥΣΤΙΚΟ ΤΟΥ ΔΡΑΚΟΥ
-plugin://plugin.video.youtube/?action=play_video&videoid=eMd_EX7AbRM
-
-#EXTINF:1,Ο ΣΑΜ ΚΑΙ ΟΙ ΠΕΙΡΑΤΕΣ ΤΩΝ ΘΑΛΑΣΣΩΝ
-plugin://plugin.video.youtube/?action=play_video&videoid=mX_584NN2rs
 
 #EXTINF:1,Ο  ΜΙΚΡΟΣ ΝΙΚΟΛΑΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=t1A9JgSKvyE
