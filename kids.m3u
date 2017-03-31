@@ -1,5 +1,40 @@
 #EXTM3U
 
+#EXTINF:1,Πινόκιο - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=PJ-sB8Xvggg
+
+#EXTINF:1,Τα Τρία Γουρουνάκια - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=wyCyIBsDXws
+
+#EXTINF:1,Ο Λύκος και τα Επτά Κατσικάκια - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=j_fCzE9bIyI
+
+#EXTINF:1,H Κοκκινοσκουφίτσα - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=d3mANDT8Rx8
+
+#EXTINF:1,Η Χιονάτη και η επτά νάνοι - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=k7t0BQXW8Oo
+
+#EXTINF:1,Η πεντάμορφη και το τέρας - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=WJKGGqnhXd8
+
+#EXTINF:1,Η ωραία κοιμωμένη - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=yJPUtyGUWdo
+
+#EXTINF:1,Ο Τζακ και η Φασολιά - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=NlXMChoYdeo
+
+#EXTINF:1,Μπισκοτούλης - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=N0g15XSnUO8
+
+#EXTINF:1,Ο Πρίγκιπας Βάτραχος - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=9U7kNEwaI-s
+
+#EXTINF:1,Ραπουνζέλ - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=klxKqviche0
+
+#EXTINF:1,Χάνσελ και Γκρέτελ - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=ge9mzRxudLo
 
 #EXTINF:1,Ο ΣΑΜ ΚΑΙ ΤΟ ΜΥΣΤΗΡΙΩΔΕΣ ΝΗΣΙ
 plugin://plugin.video.youtube/?action=play_video&videoid=pbU32L1cyw8
