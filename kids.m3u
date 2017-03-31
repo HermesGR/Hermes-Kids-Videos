@@ -24,6 +24,24 @@ plugin://plugin.video.youtube/?action=play_video&videoid=yJPUtyGUWdo
 #EXTINF:1,Ο Τζακ και η Φασολιά - Παραμύθια για παιδιά στα Ελληνικά
 plugin://plugin.video.youtube/?action=play_video&videoid=NlXMChoYdeo
 
+#EXTINF:1,Το λιοντάρι και το ποντίκι - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=FtxgXlrhv9E
+
+#EXTINF:1,Τοσοδούλα - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=ySS0ORrjLBQ
+
+#EXTINF:1,Το ασχημόπαπο - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=Kn6W3hBqn4Q
+
+#EXTINF:1,Ο Ποντικός του αγρού κι ο ποντικός της πόλης - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=kqvZlqH5xas
+
+#EXTINF:1,Ρουμπελστίλτσκιν - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=LUB3_7GfIQ8
+
+#EXTINF:1,Χάιντι - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=IkeLol4k-ds
+
 #EXTINF:1,Μπισκοτούλης - Παραμύθια για παιδιά στα Ελληνικά
 plugin://plugin.video.youtube/?action=play_video&videoid=N0g15XSnUO8
 
