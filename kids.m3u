@@ -1,5 +1,31 @@
 #EXTM3U
 
+#EXTINF:1,Ο Πόλεμος της Τροίας 3D animation
+plugin://plugin.video.youtube/?action=play_video&videoid=CwBlIQ4xxpg
+
+
+
+#EXTINF:1,Beware the Batman
+plugin://plugin.video.youtube/?action=play_video&videoid=WuZTybXqXO4
+
+#EXTINF:1,Στην αναζήτηση του Τιτανικού
+plugin://plugin.video.youtube/?action=play_video&videoid=H7UyUT7foJQ
+
+#EXTINF:1,Η Οδύσσεια 3D Animation (Ελληνικοί Υπότιτλοι)
+plugin://plugin.video.youtube/?action=play_video&videoid=7t6a9BTFD0A
+
+#EXTINF:1,Μην κρίνεις κάποιον από τα Στολίδια του
+plugin://plugin.video.youtube/?action=play_video&videoid=8ezasC-ig5c
+
+#EXTINF:1,Το Ράντζο με τα ΄Αλογα και ο Μοναχικός Καομπόης
+plugin://plugin.video.youtube/?action=play_video&videoid=A_uAHyAy72g
+
+#EXTINF:1,Παραμύθια Του Αισώπου
+plugin://plugin.video.youtube/?action=play_video&videoid=FLH0VkDYSW8
+
+#EXTINF:1,Παραμύθια Του Αισώπου
+plugin://plugin.video.youtube/?action=play_video&videoid=RyIfke0agyk
+
 #EXTINF:1,Πινόκιο - Παραμύθια για παιδιά στα Ελληνικά
 plugin://plugin.video.youtube/?action=play_video&videoid=PJ-sB8Xvggg
 
