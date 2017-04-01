@@ -1,15 +1,13 @@
 #EXTM3U
 
-#EXTINF:1,Ο Πόλεμος της Τροίας 3D animation
-plugin://plugin.video.youtube/?action=play_video&videoid=CwBlIQ4xxpg
-
-
-
 #EXTINF:1,Beware the Batman
 plugin://plugin.video.youtube/?action=play_video&videoid=WuZTybXqXO4
 
 #EXTINF:1,Στην αναζήτηση του Τιτανικού
 plugin://plugin.video.youtube/?action=play_video&videoid=H7UyUT7foJQ
+
+#EXTINF:1,Ο Πόλεμος της Τροίας 3D animation
+plugin://plugin.video.youtube/?action=play_video&videoid=CwBlIQ4xxpg
 
 #EXTINF:1,Η Οδύσσεια 3D Animation (Ελληνικοί Υπότιτλοι)
 plugin://plugin.video.youtube/?action=play_video&videoid=7t6a9BTFD0A
