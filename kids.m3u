@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:1,Εσμεράλντα
+plugin://plugin.video.youtube/?action=play_video&videoid=6LZqy4FZh3I
+
+#EXTINF:1,Νάγια εναντίον Βαιλιά Δράκου
+plugin://plugin.video.youtube/?action=play_video&videoid=d45nkYlEXUQ
+
+#EXTINF:1,Τα ωραιότερα παραμύθια Νο1
+plugin://plugin.video.youtube/?action=play_video&videoid=8VWXIpkiDVw
+
+#EXTINF:1,Τα ωραιότερα παραμύθια Νο2
+plugin://plugin.video.youtube/?action=play_video&videoid=e9sjZpuxacc
+
 #EXTINF:1,Beware the Batman
 plugin://plugin.video.youtube/?action=play_video&videoid=WuZTybXqXO4
 
