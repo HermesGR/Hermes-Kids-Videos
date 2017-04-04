@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:1,Ο Μάγος του Οζ
+plugin://plugin.video.youtube/?action=play_video&videoid=nmV8lsEtZN4
+
+#EXTINF:1,Ηρακλής
+plugin://plugin.video.youtube/?action=play_video&videoid=jp92WzOSsso
+
+#EXTINF:1,Ο Μέγας Αλέξανδρος
+plugin://plugin.video.youtube/?action=play_video&videoid=xoGzqNoj-Do
+
 #EXTINF:1,Εσμεράλντα
 plugin://plugin.video.youtube/?action=play_video&videoid=6LZqy4FZh3I
 
