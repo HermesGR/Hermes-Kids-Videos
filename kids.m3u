@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:1,Peter Pan - Παραμύθια για παιδιά στα Ελληνικά
+plugin://plugin.video.youtube/?action=play_video&videoid=GpjPsIzGRY4
+
 #EXTINF:1,Ο Μάγος του Οζ
 plugin://plugin.video.youtube/?action=play_video&videoid=nmV8lsEtZN4
 
