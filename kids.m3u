@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:1,ΤΕΝ ΤΕΝ - Η λίμνη με τους καρχαρίες
+plugin://plugin.video.youtube/?action=play_video&videoid=4j_VuoIKIe0
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Ο Τεντέν στο Θιβέτ
+plugin://plugin.video.youtube/?action=play_video&videoid=fJdL5kaRjR0
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Τα κοσμήματα της Κασταφιόρε
+plugin://plugin.video.youtube/?action=play_video&videoid=TycIOE-ygO0
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Πτήση 714 για Σίδνεϋ
+plugin://plugin.video.youtube/?action=play_video&videoid=yU2hmAqpP2s
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Το σπασμένο αυτί
+plugin://plugin.video.youtube/?action=play_video&videoid=jIdKBx-izL0
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Το μαύρο νησί
+plugin://plugin.video.youtube/?action=play_video&videoid=gRQMwUegxxQ
+
+#EXTINF:1,ΤEN ΤEN - Το Μυστικό Του Μονόκερου
+plugin://plugin.video.youtube/?action=play_video&videoid=KwJOkMe6Vr4
+
+#EXTINF:1,ΤEN ΤEN - Ο Ναός Του Ήλιου
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Ο Τεντέν και οι Πίκαρος
+plugin://plugin.video.youtube/?action=play_video&videoid=I1uJ5RPNqTM
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Βήματα στη Σελήνη
+plugin://plugin.video.youtube/?action=play_video&videoid=Vs9K1SBN1pU
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Υπόθεση Τουρνεσόλ
+plugin://plugin.video.youtube/?action=play_video&videoid=yNOPeYwuwAw
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Ο μπλε λωτός
+plugin://plugin.video.youtube/?action=play_video&videoid=pVOwHowZ6as
+
 #EXTINF:1,Peter Pan - Παραμύθια για παιδιά στα Ελληνικά
 plugin://plugin.video.youtube/?action=play_video&videoid=GpjPsIzGRY4
 
