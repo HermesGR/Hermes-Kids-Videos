@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Ο Θησαυρός Κόκκινου Ρακάμ
+plugin://plugin.video.youtube/?action=play_video&videoid=ZigqWk56vEA
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Ο κάβουρας με τις χρυσές δαγκάνες
+plugin://plugin.video.youtube/?action=play_video&videoid=8K0nNNpii7A
+
+#EXTINF:1,ΤΕΝ ΤΕΝ - Αποστολή στη Σελήνη
+plugin://plugin.video.youtube/?action=play_video&videoid=Ce2hrm2Hww
+
 #EXTINF:1,ΤΕΝ ΤΕΝ - Η λίμνη με τους καρχαρίες
 plugin://plugin.video.youtube/?action=play_video&videoid=4j_VuoIKIe0
 
