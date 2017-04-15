@@ -1,14 +1,70 @@
 #EXTM3U
 
+#EXTINF:1,Ρομπέν των δασών: Το πάθημα γίνεται μάθημα
+plugin://plugin.video.youtube/?action=play_video&videoid=7HXeXsoRfuE
 
-#EXTINF:1,ΤΕΝ ΤΕΝ - Ο Θησαυρός Κόκκινου Ρακάμ
-plugin://plugin.video.youtube/?action=play_video&videoid=ZigqWk56vEA
+#EXTINF:1,Ρομπέν των δασών: Το άγαλμα του πρίγκιπα Ιωάννη
+plugin://plugin.video.youtube/?action=play_video&videoid=5xw_EDTXd94
 
-#EXTINF:1,ΤΕΝ ΤΕΝ - Ο κάβουρας με τις χρυσές δαγκάνες
-plugin://plugin.video.youtube/?action=play_video&videoid=8K0nNNpii7A
+#EXTINF:1,Ρομπέν των δασών: Τα μπουκαλάκια της τύχης
+plugin://plugin.video.youtube/?action=play_video&videoid=1UM2HHXdKs8
 
-#EXTINF:1,ΤΕΝ ΤΕΝ - Αποστολή στη Σελήνη
-plugin://plugin.video.youtube/?action=play_video&videoid=Ce2hrm2Hww
+#EXTINF:1,Ρομπέν των δασών: Το αόρατο χρυσάφι
+plugin://plugin.video.youtube/?action=play_video&videoid=Wh7l2lAc9CY
+
+#EXTINF:1,Ρομπέν των δασών: Το μαγικό βέλος
+plugin://plugin.video.youtube/?action=play_video&videoid=kVzEXt8F_Zs
+
+#EXTINF:1,Ρομπέν των δασών: Το κελάρι
+plugin://plugin.video.youtube/?action=play_video&videoid=LNRlRAod__0
+
+#EXTINF:1,Ρομπέν των δασών: Ο ένας και μοναδικός σερίφης
+plugin://plugin.video.youtube/?action=play_video&videoid=VIcw2V40-RI
+
+#EXTINF:1,Το τραίνο των Δεινοσαύρων: Κέννυ ο κεντρόσαυρος
+plugin://plugin.video.youtube/?action=play_video&videoid=BZiz17lF_xk
+
+#EXTINF:1,Μάγια η μέλισσα: Αρχιστράτηγος Μάγια 
+plugin://plugin.video.youtube/?action=play_video&videoid=_8hHxVECmRs
+
+#EXTINF:1,Μάγια η μέλισσα: Το ξυπνητήρι
+plugin://plugin.video.youtube/?action=play_video&videoid=N_R9zKepeK4
+
+#EXTINF:1,Pajanimals: Οι τρόποι έχουν την σημασία τους
+plugin://plugin.video.youtube/?action=play_video&videoid=0nSBVcpDo38
+
+#EXTINF:1,Pajanimals: Ένα φλυτζάνι για δύο
+plugin://plugin.video.youtube/?action=play_video&videoid=ck79osJ6Qko
+
+#EXTINF:1,Γιάκαρι: Μεταξύ σκύλου και λύκου
+plugin://plugin.video.youtube/?action=play_video&videoid=i-HaTWcShwQ
+
+#EXTINF:1,Γιάκαρι: O Λίντεν δεν είναι μωρό
+plugin://plugin.video.youtube/?action=play_video&videoid=2W12rIuhGDo
+
+#EXTINF:1,Το τραίνο των Δεινοσαύρων: Ίγγυ ο ιγκουανόδοντας
+plugin://plugin.video.youtube/?action=play_video&videoid=nuJnAmRL2nw
+
+#EXTINF:1,Pajanimals: Τα ξεχωριστά πράγματα
+plugin://plugin.video.youtube/?action=play_video&videoid=qaJD6SYPf7s
+
+#EXTINF:1,Pajanimals: Η μαμά είναι φοβερή
+plugin://plugin.video.youtube/?action=play_video&videoid=GSbqkegnPX8
+
+#EXTINF:1,Το τραίνο των Δεινοσαύρων: Ο σοφός Κομφουκιόρνυθας
+plugin://plugin.video.youtube/?action=play_video&videoid=IL0rmJk1VZw
+
+#EXTINF:1,Το τραίνο των Δεινοσαύρων: Ο γύρος του κόσμου με την οικογένεια Πτερανόδοντα
+plugin://plugin.video.youtube/?action=play_video&videoid=pmRfGjrp7BQ
+
+#EXTINF:1,Κυνηγοί δράκων
+plugin://plugin.video.youtube/?action=play_video&videoid=UV6j_eYAfFI
+
+#EXTINF:1,Κυνηγοί Δράκων 
+plugin://plugin.video.youtube/?action=play_video&videoid=XG16utcliDg
+
+#EXTINF:1,Κυνηγοί Δράκων 
+plugin://plugin.video.youtube/?action=play_video&videoid=zdVgtnaaIEE
 
 #EXTINF:1,ΤΕΝ ΤΕΝ - Η λίμνη με τους καρχαρίες
 plugin://plugin.video.youtube/?action=play_video&videoid=4j_VuoIKIe0
