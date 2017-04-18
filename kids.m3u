@@ -3,6 +3,9 @@
 #EXTINF:1,Barbie Βασιλοπούλα και Xωριατοπούλα
 plugin://plugin.video.youtube/?action=play_video&videoid=Oogpisck57E
 
+#EXTINF:1,Pajanimals: Πηγαίνουμε κατασκήνωση
+plugin://plugin.video.youtube/?action=play_video&videoid=-BPOls3hmlw
+
 #EXTINF:1,Pajanimals: Χιονίζει
 plugin://plugin.video.youtube/?action=play_video&videoid=xfJtajmsfz8
 
