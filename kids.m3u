@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:1,Barbie Βασιλοπούλα και Xωριατοπούλα
+plugin://plugin.video.youtube/?action=play_video&videoid=Oogpisck57E
+
+#EXTINF:1,Pajanimals: Χιονίζει
+plugin://plugin.video.youtube/?action=play_video&videoid=xfJtajmsfz8
+
+#EXTINF:1,Pajanimals: Ατυχήματα συμβαίνουν
+plugin://plugin.video.youtube/?action=play_video&videoid=d6tGlpznmQE
 
 #EXTINF:1,Γιάκαρι: Ο πελεκάνος και οι ψαρράδες
 plugin://plugin.video.youtube/?action=play_video&videoid=MIx0U00_L_k
