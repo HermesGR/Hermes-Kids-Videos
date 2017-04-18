@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+#EXTINF:1,Γιάκαρι: Ο πελεκάνος και οι ψαρράδες
+plugin://plugin.video.youtube/?action=play_video&videoid=MIx0U00_L_k
+
+#EXTINF:1,Ζου - Ο ποδοσφαιρικός αγώνας του Ζου
+plugin://plugin.video.youtube/?action=play_video&videoid=RHj5ec8UVqA
+
+#EXTINF:1,Γιάκαρι: Τα αυγά του φιδιού
+plugin://plugin.video.youtube/?action=play_video&videoid=ubAwn2rVq1k
+
 #EXTINF:1,Ρομπέν των δασών: Τα λύτρα
 plugin://plugin.video.youtube/?action=play_video&videoid=UMTm59cVQAc
 
