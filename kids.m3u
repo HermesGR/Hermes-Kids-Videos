@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:1,Ρομπέν των δασών: Τα λύτρα
+plugin://plugin.video.youtube/?action=play_video&videoid=UMTm59cVQAc
+
 #EXTINF:1,Ρομπέν των δασών: Το πάθημα γίνεται μάθημα
 plugin://plugin.video.youtube/?action=play_video&videoid=7HXeXsoRfuE
 
