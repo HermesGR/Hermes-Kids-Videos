@@ -3,6 +3,30 @@
 #EXTINF:1,Ο τρομερός Gaturo
 plugin://plugin.video.youtube/?action=play_video&videoid=iv8TvctYoZE
 
+#EXTINF:1,Ρομπέν των δασών: Παγιδευμένοι στο χωριό
+plugin://plugin.video.youtube/?action=play_video&videoid=833v30RETpg
+
+#EXTINF:1,Γιάκαρι: Η μεγάλη φωλιά
+plugin://plugin.video.youtube/?action=play_video&videoid=hpPMcE_LQ3Q
+
+#EXTINF:1,Μάγια η μέλισσα: Βασίλισσα για μία μέρα
+plugin://plugin.video.youtube/?action=play_video&videoid=JEL3OeVCTu4
+
+#EXTINF:1,Barbie Η πριγκίπισσα και η Ροκ Σταρ
+plugin://plugin.video.youtube/?action=play_video&videoid=imNnKctXYyM
+
+#EXTINF:1,Barbie Η πριγκίπισσα των μαργαριταριών
+plugin://plugin.video.youtube/?action=play_video&videoid=CgUnKGHh8pU
+
+#EXTINF:1,Barbie Μαριπόσα και η νεραϊδένια πριγκίπισσα
+plugin://plugin.video.youtube/?action=play_video&videoid=k0O6mRD8OCE
+
+#EXTINF:1,Barbie Η βασίλισσα της μόδας
+plugin://plugin.video.youtube/?action=play_video&videoid=PeIeHr6K10Y
+
+#EXTINF:1,Barbie και οι τρεις σωματοφύλακες 
+plugin://plugin.video.youtube/?action=play_video&videoid=JlMGqry-SY4
+
 #EXTINF:1,Barbie Βασιλοπούλα και Xωριατοπούλα
 plugin://plugin.video.youtube/?action=play_video&videoid=Oogpisck57E
 
