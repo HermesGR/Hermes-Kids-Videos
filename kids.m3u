@@ -9,6 +9,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=833v30RETpg
 #EXTINF:1,Γιάκαρι: Η μεγάλη φωλιά
 plugin://plugin.video.youtube/?action=play_video&videoid=hpPMcE_LQ3Q
 
+#EXTINF:1,Το τραίνο των Δεινοσαύρων: Τα μακριά νύχια
+plugin://plugin.video.youtube/?action=play_video&videoid=X52T6P9wPAo
+
+#EXTINF:1,Γιάκαρι: Η πατημασιά του γίγαντα
+plugin://plugin.video.youtube/?action=play_video&videoid=COyinL08_vY
+
 #EXTINF:1,Μάγια η μέλισσα: Βασίλισσα για μία μέρα
 plugin://plugin.video.youtube/?action=play_video&videoid=JEL3OeVCTu4
 
