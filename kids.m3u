@@ -3,6 +3,12 @@
 #EXTINF:1,Σιντ ο μικρός επιστήμονας
 plugin://plugin.video.youtube/?action=play_video&videoid=8BuUlK2PD9c
 
+#EXTINF:1,Μάγια η μέλισσα: Αρμονία στο λιβάδ
+plugin://plugin.video.youtube/?action=play_video&videoid=69aFWYXhSqE
+
+#EXTINF:1,Μάγια η μέλισσα: Ο Βίλλυ χάνει την μνήμη του
+plugin://plugin.video.youtube/?action=play_video&videoid=JHM96rkE5T8
+
 #EXTINF:1,Ο τρομερός Gaturo
 plugin://plugin.video.youtube/?action=play_video&videoid=iv8TvctYoZE
 
