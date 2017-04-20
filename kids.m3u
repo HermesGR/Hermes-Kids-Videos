@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:1,Σιντ ο μικρός επιστήμονας
+plugin://plugin.video.youtube/?action=play_video&videoid=8BuUlK2PD9c
+
 #EXTINF:1,Ο τρομερός Gaturo
 plugin://plugin.video.youtube/?action=play_video&videoid=iv8TvctYoZE
 
