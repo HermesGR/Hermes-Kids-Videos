@@ -1,9 +1,30 @@
 #EXTM3U
 
-#EXTINF:1,Σιντ ο μικρός επιστήμονας
-plugin://plugin.video.youtube/?action=play_video&videoid=8BuUlK2PD9c
+#EXTINF:1,Σιντ ο μικρός επιστήμονας / Μετεωρολόγος / μέρος Α'
+plugin://plugin.video.youtube/?action=play_video&videoid=tMaq3-uwrYo
 
-#EXTINF:1,Μάγια η μέλισσα: Αρμονία στο λιβάδ
+#EXTINF:1,Σιντ ο μικρός επιστήμονας / Μετεωρολόγος / μέρος Β'
+plugin://plugin.video.youtube/?action=play_video&videoid=SsWU_d-ElWM
+
+#EXTINF:1,Σιντ ο μικρός επιστήμονας  / Τι υπάρχει στο χώμα ; / μέρος Α'
+plugin://plugin.video.youtube/?action=play_video&videoid=_6WZyz7GndI
+
+#EXTINF:1,Σιντ ο μικρός επιστήμονας / Τι υπάρχει στο χώμα ; / μέρος Β'
+plugin://plugin.video.youtube/?action=play_video&videoid=lUa-6QoUqGs
+
+#EXTINF:1,Σιντ ο μικρός επιστήμονας / Απλές μηχανές 1 / μέρος Α'
+plugin://plugin.video.youtube/?action=play_video&videoid=eS2KkU1_xNI
+
+#EXTINF:1,Σιντ ο μικρός επιστήμονας / Απλές μηχανές 1 / μέρος Β'
+plugin://plugin.video.youtube/?action=play_video&videoid=gazPqwjIKz8
+
+#EXTINF:1,Σιντ ο μικρός επιστήμονας / Στομάχι / μέρος Α'
+plugin://plugin.video.youtube/?action=play_video&videoid=ja2t24_mr2M
+
+#EXTINF:1,Σιντ ο μικρός επιστήμονας / Στομάχι / μέρος Β'
+plugin://plugin.video.youtube/?action=play_video&videoid=hdOb5kxQkWo
+
+#EXTINF:1,Μάγια η μέλισσα: Αρμονία στο λιβάδι
 plugin://plugin.video.youtube/?action=play_video&videoid=69aFWYXhSqE
 
 #EXTINF:1,Μάγια η μέλισσα: Ο Βίλλυ χάνει την μνήμη του
