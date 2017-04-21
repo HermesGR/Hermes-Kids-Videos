@@ -48,11 +48,17 @@ plugin://plugin.video.youtube/?action=play_video&videoid=COyinL08_vY
 #EXTINF:1,Μάγια η μέλισσα: Βασίλισσα για μία μέρα
 plugin://plugin.video.youtube/?action=play_video&videoid=JEL3OeVCTu4
 
+#EXTINF:1,Barbie σε μια απίθανη κουταβοπεριπέτεια
+plugin://plugin.video.youtube/?action=play_video&videoid=QbGmGFuurxg
+
 #EXTINF:1,Barbie Η πριγκίπισσα και η Ροκ Σταρ
 plugin://plugin.video.youtube/?action=play_video&videoid=imNnKctXYyM
 
 #EXTINF:1,Barbie Η πριγκίπισσα των μαργαριταριών
 plugin://plugin.video.youtube/?action=play_video&videoid=CgUnKGHh8pU
+
+#EXTINF:1,Barbie Θαμπελίνα 
+plugin://plugin.video.youtube/?action=play_video&videoid=EoGk_KFINTk
 
 #EXTINF:1,Barbie Μαριπόσα και η νεραϊδένια πριγκίπισσα
 plugin://plugin.video.youtube/?action=play_video&videoid=k0O6mRD8OCE
