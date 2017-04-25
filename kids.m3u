@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:1,Γιάκαρι: O Λίντεν δεν είναι μωρό
+plugin://plugin.video.youtube/?action=play_video&videoid=2W12rIuhGDo
+
+#EXTINF:1,Γιάκαρι: Το κυνήγι του άργυλου
+plugin://plugin.video.youtube/?action=play_video&videoid=JEKUcrWtmmo
+
+#EXTINF:1,Γιάκαρι: Το κυνήγι του άργυλου
+plugin://plugin.video.youtube/?action=play_video&videoid=JEKUcrWtmmo
+
+#EXTINF:1,Γιάκαρι: Το κέρατο του βούβαλου
+plugin://plugin.video.youtube/?action=play_video&videoid=TJhuSGofhOA
+
+#EXTINF:1,Μάγια η μέλισσα: Μόλλυ η ανθρακωρύχος
+plugin://plugin.video.youtube/?action=play_video&videoid=YehsH30thVY
+
+#EXTINF:1,Μάγια η μέλισσα: Έντγκαρ ο ατρόμητος
+plugin://plugin.video.youtube/?action=play_video&videoid=sNqIEzvgMS4
+
 #EXTINF:1,Σιντ ο μικρός επιστήμονας / Μετεωρολόγος / μέρος Α'
 plugin://plugin.video.youtube/?action=play_video&videoid=tMaq3-uwrYo
 
