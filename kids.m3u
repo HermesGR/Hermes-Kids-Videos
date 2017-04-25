@@ -1,10 +1,19 @@
 #EXTM3U
 
+#EXTINF:1,Μάγια η μέλισσα: Να 'στε καλά δεσποινίς Κασσάνδρα 
+plugin://plugin.video.youtube/?action=play_video&videoid=8GfeSuQQDg4
+
+#EXTINF:1,Γιάκαρι: Η υπόσχεση είναι υπόσχεση
+plugin://plugin.video.youtube/?action=play_video&videoid=7RjwWrBlnAo
+
+#EXTINF:1,Γιάκαρι: Παράξενα μάτια
+plugin://plugin.video.youtube/?action=play_video&videoid=0-PicOwNb6M
+
 #EXTINF:1,Γιάκαρι: O Λίντεν δεν είναι μωρό
 plugin://plugin.video.youtube/?action=play_video&videoid=2W12rIuhGDo
 
-#EXTINF:1,Γιάκαρι: Το κυνήγι του άργυλου
-plugin://plugin.video.youtube/?action=play_video&videoid=JEKUcrWtmmo
+#EXTINF:1,Γιάκαρι: Η χαμένη φλογέρα
+plugin://plugin.video.youtube/?action=play_video&videoid=bUM0-t_v-Sc
 
 #EXTINF:1,Γιάκαρι: Το κυνήγι του άργυλου
 plugin://plugin.video.youtube/?action=play_video&videoid=JEKUcrWtmmo
