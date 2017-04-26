@@ -1,5 +1,47 @@
 #EXTM3U
 
+#EXTINF:1,Ένας σκίουρος σούπερ ήρωας
+plugin://plugin.video.youtube/?action=play_video&videoid=5QqpNHEX5bw
+
+#EXTINF:1,Σκυλάκια στο διάστημα
+plugin://plugin.video.youtube/?action=play_video&videoid=a0bRSsPKUnE
+
+#EXTINF:1,GET SQUIRRELY
+plugin://plugin.video.youtube/?action=play_video&videoid=ChhJatPqves
+
+#EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 1
+plugin://plugin.video.youtube/?action=play_video&videoid=6D6D16kKTT4&t=8s
+
+#EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 2
+plugin://plugin.video.youtube/?action=play_video&videoid=nXUh6IxroQk
+
+#EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 3
+plugin://plugin.video.youtube/?action=play_video&videoid=ibKxI2yzQ68
+
+#EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 4
+plugin://plugin.video.youtube/?action=play_video&videoid=2wdK5vHCEDU
+
+#EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 5
+plugin://plugin.video.youtube/?action=play_video&videoid=NZ8FrAeumEk
+
+#EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 6
+plugin://plugin.video.youtube/?action=play_video&videoid=ijwv3lqhIts
+
+#EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 7
+plugin://plugin.video.youtube/?action=play_video&videoid=BDOk94xtqdQ
+
+#EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 8
+plugin://plugin.video.youtube/?action=play_video&videoid=a76AkCnfqZE
+
+#EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 9
+plugin://plugin.video.youtube/?action=play_video&videoid=kJebBS0KYdU
+
+#EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 10
+plugin://plugin.video.youtube/?action=play_video&videoid=d4M3GLtNM7k
+
+#EXTINF:1,Το τραίνο των Δεινοσαύρων: Το βασιλικό φτερό
+plugin://plugin.video.youtube/?action=play_video&videoid=qBIDaK223U4
+
 #EXTINF:1,Μάγια η μέλισσα: Να 'στε καλά δεσποινίς Κασσάνδρα 
 plugin://plugin.video.youtube/?action=play_video&videoid=8GfeSuQQDg4
 
