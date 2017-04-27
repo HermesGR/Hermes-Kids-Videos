@@ -9,6 +9,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=a0bRSsPKUnE
 #EXTINF:1,Get Squirrely
 plugin://plugin.video.youtube/?action=play_video&videoid=ChhJatPqves
 
+#EXTINF:1,Στρουμφάκια -Μια Χριστουγεννιάτικη Ιστορία
+plugin://plugin.video.dailymotion_com/?url=x2icdit&mode=playVideo
+
 #EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 1
 plugin://plugin.video.youtube/?action=play_video&videoid=6D6D16kKTT4&t=8s
 
