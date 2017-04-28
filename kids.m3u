@@ -39,35 +39,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=kJebBS0KYdU
 #EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 10
 plugin://plugin.video.youtube/?action=play_video&videoid=d4M3GLtNM7k
 
-#EXTINF:1,Το τραίνο των Δεινοσαύρων: Το βασιλικό φτερό
-plugin://plugin.video.youtube/?action=play_video&videoid=qBIDaK223U4
 
-#EXTINF:1,Μάγια η μέλισσα: Να 'στε καλά δεσποινίς Κασσάνδρα 
-plugin://plugin.video.youtube/?action=play_video&videoid=8GfeSuQQDg4
 
-#EXTINF:1,Γιάκαρι: Η υπόσχεση είναι υπόσχεση
-plugin://plugin.video.youtube/?action=play_video&videoid=7RjwWrBlnAo
-
-#EXTINF:1,Γιάκαρι: Παράξενα μάτια
-plugin://plugin.video.youtube/?action=play_video&videoid=0-PicOwNb6M
-
-#EXTINF:1,Γιάκαρι: O Λίντεν δεν είναι μωρό
-plugin://plugin.video.youtube/?action=play_video&videoid=2W12rIuhGDo
-
-#EXTINF:1,Γιάκαρι: Η χαμένη φλογέρα
-plugin://plugin.video.youtube/?action=play_video&videoid=bUM0-t_v-Sc
-
-#EXTINF:1,Γιάκαρι: Το κυνήγι του άργυλου
-plugin://plugin.video.youtube/?action=play_video&videoid=JEKUcrWtmmo
-
-#EXTINF:1,Γιάκαρι: Το κέρατο του βούβαλου
-plugin://plugin.video.youtube/?action=play_video&videoid=TJhuSGofhOA
-
-#EXTINF:1,Μάγια η μέλισσα: Μόλλυ η ανθρακωρύχος
-plugin://plugin.video.youtube/?action=play_video&videoid=YehsH30thVY
-
-#EXTINF:1,Μάγια η μέλισσα: Έντγκαρ ο ατρόμητος
-plugin://plugin.video.youtube/?action=play_video&videoid=sNqIEzvgMS4
 
 #EXTINF:1,Σιντ ο μικρός επιστήμονας / Μετεωρολόγος / μέρος Α'
 plugin://plugin.video.youtube/?action=play_video&videoid=tMaq3-uwrYo
@@ -93,29 +66,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=ja2t24_mr2M
 #EXTINF:1,Σιντ ο μικρός επιστήμονας / Στομάχι / μέρος Β'
 plugin://plugin.video.youtube/?action=play_video&videoid=hdOb5kxQkWo
 
-#EXTINF:1,Μάγια η μέλισσα: Αρμονία στο λιβάδι
-plugin://plugin.video.youtube/?action=play_video&videoid=69aFWYXhSqE
-
-#EXTINF:1,Μάγια η μέλισσα: Ο Βίλλυ χάνει την μνήμη του
-plugin://plugin.video.youtube/?action=play_video&videoid=JHM96rkE5T8
-
 #EXTINF:1,Ο τρομερός Gaturo
 plugin://plugin.video.youtube/?action=play_video&videoid=iv8TvctYoZE
-
-#EXTINF:1,Ρομπέν των δασών: Παγιδευμένοι στο χωριό
-plugin://plugin.video.youtube/?action=play_video&videoid=833v30RETpg
-
-#EXTINF:1,Γιάκαρι: Η μεγάλη φωλιά
-plugin://plugin.video.youtube/?action=play_video&videoid=hpPMcE_LQ3Q
-
-#EXTINF:1,Το τραίνο των Δεινοσαύρων: Τα μακριά νύχια
-plugin://plugin.video.youtube/?action=play_video&videoid=X52T6P9wPAo
-
-#EXTINF:1,Γιάκαρι: Η πατημασιά του γίγαντα
-plugin://plugin.video.youtube/?action=play_video&videoid=COyinL08_vY
-
-#EXTINF:1,Μάγια η μέλισσα: Βασίλισσα για μία μέρα
-plugin://plugin.video.youtube/?action=play_video&videoid=JEL3OeVCTu4
 
 #EXTINF:1,Barbie σε μια απίθανη κουταβοπεριπέτεια
 plugin://plugin.video.youtube/?action=play_video&videoid=QbGmGFuurxg
@@ -140,102 +92,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=JlMGqry-SY4
 
 #EXTINF:1,Barbie Βασιλοπούλα και Xωριατοπούλα
 plugin://plugin.video.youtube/?action=play_video&videoid=Oogpisck57E
-
-#EXTINF:1,Μάγια η μέλισσα: Ο μουτρωμένος Βίλλυ 
-plugin://plugin.video.youtube/?action=play_video&videoid=6j6uKqBTWH0
-
-#EXTINF:1,Pajanimals: Όταν ήμουν μωρό
-plugin://plugin.video.youtube/?action=play_video&videoid=rbYN3eLMhG0
-
-#EXTINF:1,Μάγια η μέλισσα: Απαγορευμένο φρούτο
-plugin://plugin.video.youtube/?action=play_video&videoid=7bBWkUBUyRc
-
-#EXTINF:1,Pajanimals: Πηγαίνουμε κατασκήνωση
-plugin://plugin.video.youtube/?action=play_video&videoid=-BPOls3hmlw
-
-#EXTINF:1,Pajanimals: Χιονίζει
-plugin://plugin.video.youtube/?action=play_video&videoid=xfJtajmsfz8
-
-#EXTINF:1,Pajanimals: Ατυχήματα συμβαίνουν
-plugin://plugin.video.youtube/?action=play_video&videoid=d6tGlpznmQE
-
-#EXTINF:1,Γιάκαρι: Ο πελεκάνος και οι ψαρράδες
-plugin://plugin.video.youtube/?action=play_video&videoid=MIx0U00_L_k
-
-#EXTINF:1,Ζου - Ο ποδοσφαιρικός αγώνας του Ζου
-plugin://plugin.video.youtube/?action=play_video&videoid=RHj5ec8UVqA
-
-#EXTINF:1,Γιάκαρι: Τα αυγά του φιδιού
-plugin://plugin.video.youtube/?action=play_video&videoid=ubAwn2rVq1k
-
-#EXTINF:1,Ρομπέν των δασών: Τα λύτρα
-plugin://plugin.video.youtube/?action=play_video&videoid=UMTm59cVQAc
-
-#EXTINF:1,Ρομπέν των δασών: Το πάθημα γίνεται μάθημα
-plugin://plugin.video.youtube/?action=play_video&videoid=7HXeXsoRfuE
-
-#EXTINF:1,Ρομπέν των δασών: Το άγαλμα του πρίγκιπα Ιωάννη
-plugin://plugin.video.youtube/?action=play_video&videoid=5xw_EDTXd94
-
-#EXTINF:1,Ρομπέν των δασών: Τα μπουκαλάκια της τύχης
-plugin://plugin.video.youtube/?action=play_video&videoid=1UM2HHXdKs8
-
-#EXTINF:1,Ρομπέν των δασών: Το αόρατο χρυσάφι
-plugin://plugin.video.youtube/?action=play_video&videoid=Wh7l2lAc9CY
-
-#EXTINF:1,Ρομπέν των δασών: Το μαγικό βέλος
-plugin://plugin.video.youtube/?action=play_video&videoid=kVzEXt8F_Zs
-
-#EXTINF:1,Ρομπέν των δασών: Το κελάρι
-plugin://plugin.video.youtube/?action=play_video&videoid=LNRlRAod__0
-
-#EXTINF:1,Ρομπέν των δασών: Ο ένας και μοναδικός σερίφης
-plugin://plugin.video.youtube/?action=play_video&videoid=VIcw2V40-RI
-
-#EXTINF:1,Το τραίνο των Δεινοσαύρων: Κέννυ ο κεντρόσαυρος
-plugin://plugin.video.youtube/?action=play_video&videoid=BZiz17lF_xk
-
-#EXTINF:1,Μάγια η μέλισσα: Αρχιστράτηγος Μάγια 
-plugin://plugin.video.youtube/?action=play_video&videoid=_8hHxVECmRs
-
-#EXTINF:1,Μάγια η μέλισσα: Το ξυπνητήρι
-plugin://plugin.video.youtube/?action=play_video&videoid=N_R9zKepeK4
-
-#EXTINF:1,Pajanimals: Οι τρόποι έχουν την σημασία τους
-plugin://plugin.video.youtube/?action=play_video&videoid=0nSBVcpDo38
-
-#EXTINF:1,Pajanimals: Ένα φλυτζάνι για δύο
-plugin://plugin.video.youtube/?action=play_video&videoid=ck79osJ6Qko
-
-#EXTINF:1,Γιάκαρι: Μεταξύ σκύλου και λύκου
-plugin://plugin.video.youtube/?action=play_video&videoid=i-HaTWcShwQ
-
-#EXTINF:1,Γιάκαρι: O Λίντεν δεν είναι μωρό
-plugin://plugin.video.youtube/?action=play_video&videoid=2W12rIuhGDo
-
-#EXTINF:1,Το τραίνο των Δεινοσαύρων: Ίγγυ ο ιγκουανόδοντας
-plugin://plugin.video.youtube/?action=play_video&videoid=nuJnAmRL2nw
-
-#EXTINF:1,Pajanimals: Τα ξεχωριστά πράγματα
-plugin://plugin.video.youtube/?action=play_video&videoid=qaJD6SYPf7s
-
-#EXTINF:1,Pajanimals: Η μαμά είναι φοβερή
-plugin://plugin.video.youtube/?action=play_video&videoid=GSbqkegnPX8
-
-#EXTINF:1,Το τραίνο των Δεινοσαύρων: Ο σοφός Κομφουκιόρνυθας
-plugin://plugin.video.youtube/?action=play_video&videoid=IL0rmJk1VZw
-
-#EXTINF:1,Το τραίνο των Δεινοσαύρων: Ο γύρος του κόσμου με την οικογένεια Πτερανόδοντα
-plugin://plugin.video.youtube/?action=play_video&videoid=pmRfGjrp7BQ
-
-#EXTINF:1,Κυνηγοί δράκων
-plugin://plugin.video.youtube/?action=play_video&videoid=UV6j_eYAfFI
-
-#EXTINF:1,Κυνηγοί Δράκων 
-plugin://plugin.video.youtube/?action=play_video&videoid=XG16utcliDg
-
-#EXTINF:1,Κυνηγοί Δράκων 
-plugin://plugin.video.youtube/?action=play_video&videoid=zdVgtnaaIEE
 
 #EXTINF:1,ΤΕΝ ΤΕΝ - Η λίμνη με τους καρχαρίες
 plugin://plugin.video.youtube/?action=play_video&videoid=4j_VuoIKIe0
