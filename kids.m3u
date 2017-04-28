@@ -9,6 +9,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=a0bRSsPKUnE
 #EXTINF:1,Get Squirrely
 plugin://plugin.video.youtube/?action=play_video&videoid=ChhJatPqves
 
+#EXTINF:1,Πίπη η Φακιδομύτη
+plugin://plugin.video.youtube/?action=play_video&videoid=tgzXI0Cs_3s
+
+#EXTINF:1,Το Μυστικό της Νίκης
+plugin://plugin.video.youtube/?action=play_video&videoid=gyzEcIgogFg
+
 #EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 1
 plugin://plugin.video.youtube/?action=play_video&videoid=6D6D16kKTT4&t=8s
 
