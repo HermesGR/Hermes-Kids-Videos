@@ -1,4 +1,260 @@
 #EXTM3U
+#EXTINF:0,ERT1
+http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
+#EXTINF:-1,EPT1 BUP 1
+http://ert1geo-lh.akamaihd.net/i/live_1@364501/master.m3u8
+#EXTINF:-1,EPT1 BUP 2
+http://over.ddns.net:65101/
+#EXTINF:0,ERT2
+http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
+#EXTINF:-1,EPT2 BUP 1
+http://ert2geo-lh.akamaihd.net/i/live_1@362314/master.m3u8
+#EXTINF:-1,EPT2 BUP 2
+http://over.ddns.net:65102/
+#EXTINF:0,ERT3
+http://ert3-lh.akamaihd.net/i/live_1@329806/master.m3u8
+#EXTINF:-1,EPT3 BUP
+http://over.ddns.net:65103/
+#EXTINF:0,ERT PROSEXOS
+http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
+#EXTINF:0,MEGA
+http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
+#EXTINF:0,MEGA BUP
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:0,MEGA BUP 2
+http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
+#EXTINF:-1,MEGA BUP 3
+http://over.ddns.net:65110/
+#EXTINF:0,ANT1
+http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
+#EXTINF:0,ANT1 BUP
+http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
+#EXTINF:0,ANT1 BUP 2
+http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
+#EXTINF:-1,ANT1 BUP 3
+http://over.ddns.net:65106/
+#EXTINF:-1,ANT1 BUP 4
+http://www.iptvsaga.com/play/tv3/0133.m3u8
+#EXTINF:0,ALPHA
+http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
+#EXTINF:-1,ALPHA BUP
+http://over.ddns.net:65105/
+#EXTINF:0,STAR
+http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
+#EXTINF:0,STAR BUP
+http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
+#EXTINF:-1,STAR BUP 2
+http://over.ddns.net:65111/
+#EXTINF:0,SKAI
+http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
+#EXTINF:-1,SKAI BUP
+http://over.ddns.net:65112/
+#EXTINF:0,EPSILON
+http://38.140.63.250:1935/gr-live/otesport5.sdp/playlist.m3u8
+#EXTINF:0,EPSILON BUP
+http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
+#EXTINF:-1,EPSILON BUP 2
+http://over.ddns.net:65108/
+#EXTINF:-1,MACEDONIA
+http://over.ddns.net:65109/
+#EXTINF:0,MACEDONIA BUP
+http://stream.maktv.gr/i/live_1@332903/master.m3u8
+#EXTINF:-1,VOULI
+http://over.ddns.net:65104/
+#EXTINF:0,VOULI BUP
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:0,VOULI BUP 2
+mms://media19.internet.gr/ParliamentTV-HQ
+#EXTINF:0,EURONEWS
+rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
+#EXTINF:0,MAD CY
+rtmp://eradio.networksolutions.com.cy/live/livestream
+#EXTINF:-1,PIK 1
+http://over.ddns.net:65113/
+#EXTINF:-1,PIK 2
+http://over.ddns.net:65114/
+#EXTINF:-1,MEGA CY
+http://over.ddns.net:65117/
+#EXTINF:0,ANT1 CY
+http://ant1cypruslive-vh.akamaihd.net/iwohttporigin/livestream/playlist.m3u8
+#EXTINF:-1,ANT1 CY BUP
+http://over.ddns.net:65116/
+#EXTINF:0,SIGMA CY
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:0,SIGMA CY BUP
+http://over.ddns.net:65115/
+#EXTINF:0,NOVACINEMA1
+http://38.140.63.250:1935/gr-live/filmnet.sdp/playlist.m3u8
+#EXTINF:0,NOVACINEMA2
+http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
+#EXTINF:0,NOVASPORTS1
+http://38.140.63.250:1935/gr-live/sport1.sdp/playlist.m3u8
+#EXTINF:0,NOVASPORTS2
+http://38.140.63.250:1935/gr-live/sport2.sdp/playlist.m3u8
+#EXTINF:0,NOVASPORTS3
+http://38.140.63.250:1935/gr-live/alter.sdp/playlist.m3u8
+#EXTINF:-1,OTE Cinema 1
+http://ipsatpro.com:8000/live/marvin/marvin/1427.ts
+#EXTINF:-1,OTE Cinema 2
+http://ipsatpro.com:8000/live/marvin/marvin/1426.ts
+#EXTINF:-1,OTE Cinema 3
+http://ipsatpro.com:8000/live/marvin/marvin/1425.ts
+#EXTINF:-1,OTE Cinema 4
+http://ipsatpro.com:8000/live/marvin/marvin/1424.ts
+#EXTINF:-1,OTE Sport 1
+http://ipsatpro.com:8000/live/marvin/marvin/831.ts
+#EXTINF:-1,OTE Sport 2
+http://ipsatpro.com:8000/live/marvin/marvin/838.ts
+#EXTINF:-1,OTE Sport 3
+http://ipsatpro.com:8000/live/marvin/marvin/837.ts
+#EXTINF:-1,OTE Sport 4
+http://ipsatpro.com:8000/live/marvin/marvin/836.ts
+#EXTINF:-1,OTE Sport 5
+http://ipsatpro.com:8000/live/marvin/marvin/835.ts
+#EXTINF:-1,OTE Sport 6
+http://ipsatpro.com:8000/live/marvin/marvin/834.ts
+#EXTINF:-1,OTE Sport 7
+http://ipsatpro.com:8000/live/marvin/marvin/833.ts
+#EXTINF:0,ART
+https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
+#EXTINF:-1,APT BUP
+http://over.ddns.net:65107/
+#EXTINF:0,SBC
+http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,BLUE SKY
+http://88.198.238.44:1935/live/bluesky/playlist.m3u8
+#EXTINF:0,EXTRA CHANNEL
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:0,KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:0,KONTRA BUP
+http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+#EXTINF:0,JAYZEE
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:0,THEMA TV
+http://5.196.92.57/webtv/medium.m3u8
+#EXTINF:0,ZOUGLA TV
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+#EXTINF:0,LAMPSI TV
+http://176.9.25.17:1935/LampsiTV/LampsiTV/playlist.m3u8
+#EXTINF:0,TV GOLD
+mms://tvgold.webcast.mediacdn.com/tvgold
+#EXTINF:0,MPAXALO TV
+http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,HELLAS TV
+http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
+#EXTINF:0,TINOS TV
+http://iphone-streaming.ustream.tv/uhls/20905250/streams/live/iphone/playlist.m3u8
+#EXTINF:0,4E
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+#EXTINF:0,4E BUP
+http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1,CAPITAL
+http://over.ddns.net:65118/
+#EXTINF:-1,EXTRA
+http://over.ddns.net:65119/
+#EXTINF:-1,PLUS
+http://over.ddns.net:65120/
+#EXTINF:-1,BABYTV
+http://over.ddns.net:65201/
+#EXTINF:-1,JUNIOR
+http://over.ddns.net:65202/
+#EXTINF:-1,NICK JR
+http://over.ddns.net:65209/
+#EXTINF:0,WZRA KIDS
+mmsh://wpso.com:200/kids
+#EXTINF:0,CRETA 
+http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
+#EXTINF:0,KPHTH TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:0,NEA TV
+http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+#EXTINF:0,KYDON
+http://iphone-streaming.ustream.tv/uhls/9461248/streams/live/iphone/playlist.m3u8
+#EXTINF:0,TV-100 
+http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
+#EXTINF:0,BERGINA
+http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
+#EXTINF:0,EUROPE ONE
+http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
+#EXTINF:0,DIKTYO TV
+http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
+#EXTINF:0,ENA CHANNEL
+http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
+#EXTINF:0,R CHANNEL
+http://94.23.218.186:1935/kanali5/kanali5/playlist.m3u8
+#EXTINF:0,STAR B.E.
+mmsh://radiofeeds1.mediabox.gr/startv
+#EXTINF:0,THRAKI NET
+http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
+#EXTINF:0,DELTA TV
+mms://deltatv1.dyndns.org:1194
+#EXTINF:0,TOP CHANNEL
+http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
+#EXTINF:0,AXELWOS TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:0,EPIRUS TV1
+http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,START TV
+http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:0,ASTRA TV
+http://www.astratv.gr:8090/hls/livestream.m3u8
+#EXTINF:0,TRT TV
+http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,BEST TV
+http://hls.onestreaming.com:1935/live/besttv/playlist.m3u8
+#EXTINF:0,LEPANTO
+http://78.129.184.15:33102/streaming/stream/playlist.m3u8
+#EXTINF:0,LYCHNOS
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:0,AIGAIO TV
+http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,OMEGA TELEVISION
+http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
+#EXTINF:0,SAMIAKI TV
+rtmp://94.23.218.186/samiaki/samiaki
+#EXTINF:0,TV 1
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+#EXTINF:0,TV MYTILINI
+rtmp://cp77174.live.edgefcs.net/live/123456@19937
+#EXTINF:0,EBS
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
+#EXTINF:0,EBS PLUS
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
+#EXTINF:0,ELLINIKOS TV
+http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
+#EXTINF:0,MAKELEIO TV
+http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
+#EXTINF:0,MANA ELLADA TV
+http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
+#EXTINF:0,MESSINIA TV
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:0,TILESPORT
+rtmp://78.47.151.114/tilesport/movie1
+#EXTINF:-1,NAT GEO
+http://over.ddns.net:65203/
+#EXTINF:-1,Nat geo Wild
+http://over.ddns.net:65211/
+#EXTINF:-1,DISCOVERY
+http://over.ddns.net:65204/
+#EXTINF:-1,HISTORY
+http://over.ddns.net:65205/
+#EXTINF:-1,FOX
+http://over.ddns.net:65206/
+#EXTINF:-1,FOXLIFE
+http://over.ddns.net:65207/
+#EXTINF:-1,IDX
+http://over.ddns.net:65208/
+#EXTINF:-1,Animal Planet
+http://over.ddns.net:65210
+
+
+
+
+
+
+
+#EXTM3U
 
 #EXTINF:1,Ένας σκίουρος σούπερ ήρωας
 plugin://plugin.video.youtube/?action=play_video&videoid=5QqpNHEX5bw
