@@ -1,7 +1,16 @@
 #EXTM3U
 
-#EXTINF:1,Aladin οι νέες περιπέτειες (Μεταγλωτισμένο)
+#EXTINF:1,Aladin οι νέες περιπέτειες [Μεταγλωτισμένο]
 plugin://plugin.video.youtube/?action=play_video&videoid=9_t55KIbVdA
+
+#EXTINF:1,Pokémon 1:The First Movie [Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=xSfR6ghE9kg
+
+#EXTINF:1,Sandokan [Μεταγλωτισμένο]
+plugin://plugin.video.youtube/?action=play_video&videoid=w7ZQfngcdxU
+
+#EXTINF:1,Ονειρούπολη Δράμας - Παιδική Ταινία 3D
+plugin://plugin.video.youtube/?action=play_video&videoid=B93kv-57Qf8
 
 #EXTINF:1,Ένας σκίουρος σούπερ ήρωας
 plugin://plugin.video.youtube/?action=play_video&videoid=5QqpNHEX5bw
