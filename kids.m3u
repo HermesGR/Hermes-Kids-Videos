@@ -27,6 +27,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=tgzXI0Cs_3s
 #EXTINF:1,Το Μυστικό της Νίκης
 plugin://plugin.video.youtube/?action=play_video&videoid=gyzEcIgogFg
 
+#EXTINF:1,Ζακ και Κουάκ 30 Επεισόδια !
+plugin://plugin.video.youtube/?action=play_video&videoid=shhN1cfZpso
+
 #EXTINF:1,Ο Μπλειζ και οι Φιλοι του - Επεισόδιο 1
 plugin://plugin.video.youtube/?action=play_video&videoid=6D6D16kKTT4&t=8s
 
