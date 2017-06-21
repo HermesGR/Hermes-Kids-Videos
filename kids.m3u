@@ -1,10 +1,34 @@
 #EXTM3U
 
+#EXTINF:1,Γκάρφιλντ - Η εξέγερση των τρωκτικών
+plugin://plugin.video.youtube/?action=play_video&videoid=VQCIGsLN4DU
+
+#EXTINF:1,Γκάρφιλντ - Η πειρατική περιπέτεια του κάπτεν Γκάρφιλντ
+plugin://plugin.video.youtube/?action=play_video&videoid=nBMDbtMdAdQ
+
+#EXTINF:1,Γκάρφιλντ - Γουνοιστορίες
+plugin://plugin.video.youtube/?action=play_video&videoid=xIj4sQS8teE
+
+#EXTINF:1,Γκάρφιλντ - Κλέφτης Ονείρων
+plugin://plugin.video.youtube/?action=play_video&videoid=SwllJsxOAGY
+
+#EXTINF:1,Γκάρφιλντ - Σπίτι μου Σπιτάκι μου
+plugin://plugin.video.youtube/?action=play_video&videoid=L4OXFQ8SiAw
+
+#EXTINF:1,Rabbids Invasion - Η επιδρομη των κουνελιών
+plugin://plugin.video.youtube/?action=play_video&videoid=PSUXETxKeno
+
+#EXTINF:1,Rabbids Invasion - Η επιδρομη των κουνελιών
+plugin://plugin.video.youtube/?action=play_video&videoid=RCuY7YQkdrE
+
+#EXTINF:1,Rabbids Invasion - Η επιδρομη των κουνελιών
+plugin://plugin.video.youtube/?action=play_video&videoid=W8-9hM3Kwn0
+
+#EXTINF:1,Rabbids Invasion - Η επιδρομη των κουνελιών
+plugin://plugin.video.youtube/?action=play_video&videoid=jI-rQILERjA
+
 #EXTINF:1,Barbie Island Princess [Μεταγλωτισμένο]
 plugin://plugin.video.youtube/?action=play_video&videoid=uCrCOlHVkq0
-
-#EXTINF:1,Barbie and Her Sisters In a Pony Tale [Μεταγλωτισμένο]
-plugin://plugin.video.youtube/?action=play_video&videoid=
 
 #EXTINF:1,Aladin οι νέες περιπέτειες [Μεταγλωτισμένο]
 plugin://plugin.video.youtube/?action=play_video&videoid=9_t55KIbVdA
