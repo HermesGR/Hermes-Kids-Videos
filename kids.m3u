@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:1,Ο Γουάι στο Παραμυθοχωριό - Ο πρίγκηπας βάτραχος
+plugin://plugin.video.youtube/?action=play_video&videoid=G5f0tYmhIro
+
 #EXTINF:1,Γκάρφιλντ - Η εξέγερση των τρωκτικών
 plugin://plugin.video.youtube/?action=play_video&videoid=VQCIGsLN4DU
 
