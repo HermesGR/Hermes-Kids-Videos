@@ -3,6 +3,18 @@
 #EXTINF:1,Ο Γουάι στο Παραμυθοχωριό - Ο πρίγκηπας βάτραχος
 plugin://plugin.video.youtube/?action=play_video&videoid=G5f0tYmhIro
 
+#EXTINF:1,Γκάρφιλντ - Μανιακός με τον έλεγχο
+plugin://plugin.video.youtube/?action=play_video&videoid=q24VaoEDh5c
+
+#EXTINF:1,Γκάρφιλντ - Βρωμάω, βρωμάς, βρωμάμε
+plugin://plugin.video.youtube/?action=play_video&videoid=DjuOaxOQ9GA
+
+#EXTINF:1,Γκάρφιλντ - Η βαρύτητα της κατάστασης
+plugin://plugin.video.youtube/?action=play_video&videoid=2dCUTGVD3_Y
+
+#EXTINF:1,Γκάρφιλντ - Μπόρις ο χιονάνθρωπος
+plugin://plugin.video.youtube/?action=play_video&videoid=lenwB1EqXbY
+
 #EXTINF:1,Γκάρφιλντ - Η εξέγερση των τρωκτικών
 plugin://plugin.video.youtube/?action=play_video&videoid=VQCIGsLN4DU
 
@@ -17,6 +29,21 @@ plugin://plugin.video.youtube/?action=play_video&videoid=SwllJsxOAGY
 
 #EXTINF:1,Γκάρφιλντ - Σπίτι μου Σπιτάκι μου
 plugin://plugin.video.youtube/?action=play_video&videoid=L4OXFQ8SiAw
+
+#EXTINF:1,Rabbids Invasion - Η επιδρομη των κουνελιών
+plugin://plugin.video.youtube/?action=play_video&videoid=4Of4h_LhA7A
+
+#EXTINF:1,Rabbids Invasion - Η επιδρομη των κουνελιών
+plugin://plugin.video.youtube/?action=play_video&videoid=f6Ns1LEUYSE
+
+#EXTINF:1,Rabbids Invasion - Η επιδρομη των κουνελιών
+plugin://plugin.video.youtube/?action=play_video&videoid=V50NP9idqzY
+
+#EXTINF:1,Rabbids Invasion - Η επιδρομη των κουνελιών
+plugin://plugin.video.youtube/?action=play_video&videoid=RCuY7YQkdrE
+
+#EXTINF:1,Rabbids Invasion - Η επιδρομη των κουνελιών
+plugin://plugin.video.youtube/?action=play_video&videoid=1jq-MWcVARA
 
 #EXTINF:1,Rabbids Invasion - Η επιδρομη των κουνελιών
 plugin://plugin.video.youtube/?action=play_video&videoid=PSUXETxKeno
