@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:1, Ανιμάλια Επεισόδιο 1
+plugin://plugin.video.dailymotion_com/?url=x5dsih8&mode=playVideo
+
+#EXTINF:1, Ανιμάλια Επεισόδιο 2
+plugin://plugin.video.dailymotion_com/?url=x5dsp4w&mode=playVideo
+
+#EXTINF:1, Ανιμάλια Επεισόδιο 3
+plugin://plugin.video.dailymotion_com/?url=x5dwcln&mode=playVideo
+
+#EXTINF:1, Ανιμάλια Επεισόδιο 4
+plugin://plugin.video.dailymotion_com/?url=x5dxxfi&mode=playVideo
+
+#EXTINF:1, Ανιμάλια Επεισόδιο 5
+plugin://plugin.video.dailymotion_com/?url=x5em0fb&mode=playVideo
+
+#EXTINF:1, Ανιμάλια Επεισόδιο 6
+plugin://plugin.video.dailymotion_com/?url=x5f2uv1&mode=playVideo
+
+#EXTINF:1, Ανιμάλια Επεισόδιο 7
+plugin://plugin.video.dailymotion_com/?url=x5gug2t&mode=playVideo
+
 #EXTINF:1,Ο Γουάι στο Παραμυθοχωριό - Ο πρίγκηπας βάτραχος
 plugin://plugin.video.youtube/?action=play_video&videoid=G5f0tYmhIro
 
