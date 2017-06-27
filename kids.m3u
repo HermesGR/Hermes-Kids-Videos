@@ -45,6 +45,12 @@ plugin://plugin.video.dailymotion_com/?url=x56d2ga&mode=playVideo
 #EXTINF:1, Τα Χρονικά Του Ζορό - Επ.8
 plugin://plugin.video.dailymotion_com/?url=x5799lc&mode=playVideo
 
+#EXTINF:1, Τα Χρονικά Του Ζορό - Επ.9
+plugin://plugin.video.dailymotion_com/?url=x56i4ew&mode=playVideo
+
+#EXTINF:1, Τα Χρονικά Του Ζορό - Επ.10
+plugin://plugin.video.dailymotion_com/?url=x57ge1&mode=playVideo
+
 #EXTINF:1,Ο Γουάι στο Παραμυθοχωριό - Ο πρίγκηπας βάτραχος
 plugin://plugin.video.youtube/?action=play_video&videoid=G5f0tYmhIro
 
