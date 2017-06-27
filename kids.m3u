@@ -21,6 +21,30 @@ plugin://plugin.video.dailymotion_com/?url=x5f2uv1&mode=playVideo
 #EXTINF:1, Ζωόπολη Επεισόδιο 7
 plugin://plugin.video.dailymotion_com/?url=x5gug2t&mode=playVideo
 
+#EXTINF:1, Τα Χρονικά Του Ζορό - Επ.1
+plugin://plugin.video.dailymotion_com/?url=x56pohl&mode=playVideo
+
+#EXTINF:1, Τα Χρονικά Του Ζορό - Επ.2
+plugin://plugin.video.dailymotion_com/?url=x56y1rp&mode=playVideo
+
+#EXTINF:1, Τα Χρονικά Του Ζορό - Επ.3
+plugin://plugin.video.dailymotion_com/?url=x56y1s4&mode=playVideo
+
+#EXTINF:1, Τα Χρονικά Του Ζορό - Επ.4
+plugin://plugin.video.dailymotion_com/?url=x578b5c&mode=playVideo
+
+#EXTINF:1, Τα Χρονικά Του Ζορό - Επ.5
+plugin://plugin.video.dailymotion_com/?url=x578ia4&mode=playVideo
+
+#EXTINF:1, Τα Χρονικά Του Ζορό - Επ.6
+plugin://plugin.video.dailymotion_com/?url=x5693u4&mode=playVideo
+
+#EXTINF:1, Τα Χρονικά Του Ζορό - Επ.7
+plugin://plugin.video.dailymotion_com/?url=x56d2ga&mode=playVideo
+
+#EXTINF:1, Τα Χρονικά Του Ζορό - Επ.8
+plugin://plugin.video.dailymotion_com/?url=x5799lc&mode=playVideo
+
 #EXTINF:1,Ο Γουάι στο Παραμυθοχωριό - Ο πρίγκηπας βάτραχος
 plugin://plugin.video.youtube/?action=play_video&videoid=G5f0tYmhIro
 
