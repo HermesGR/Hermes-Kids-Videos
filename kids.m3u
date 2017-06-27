@@ -171,6 +171,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=JlMGqry-SY4
 #EXTINF:1,Barbie Βασιλοπούλα και Xωριατοπούλα
 plugin://plugin.video.youtube/?action=play_video&videoid=Oogpisck57E
 
+#EXTINF:1,ΤEN ΤEN - Η Γη του μάυρου χρυσού
+plugin://plugin.video.dailymotion_com/?url=x3a2hvc_oι-περιπέτειες-του-τέν-τέν-η-γη-του-μάυρου-χρυσού_fun
+
 #EXTINF:1,ΤΕΝ ΤΕΝ - Η λίμνη με τους καρχαρίες
 plugin://plugin.video.youtube/?action=play_video&videoid=4j_VuoIKIe0
 
