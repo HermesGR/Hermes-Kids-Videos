@@ -18,6 +18,18 @@ plugin://plugin.video.youtube/?action=play_video&videoid=EA1R7CbjtRY
 #EXTINF:1, Νιλς Χολγκερσον  Επεισόδιο 6
 plugin://plugin.video.youtube/?action=play_video&videoid=mPJom0KFQ9A
 
+#EXTINF:1, Νιλς Χολγκερσον  Επεισόδιο 7
+plugin://plugin.video.youtube/?action=play_video&videoid=vKbFBZI-8Tc
+
+#EXTINF:1, Νιλς Χολγκερσον  Επεισόδιο 8
+plugin://plugin.video.youtube/?action=play_video&videoid=GQmqsNpLBbw
+
+#EXTINF:1, Νιλς Χολγκερσον  Επεισόδιο 9
+plugin://plugin.video.youtube/?action=play_video&videoid=cWfK80rPPiY
+
+#EXTINF:1, Νιλς Χολγκερσον  Επεισόδιο 10
+plugin://plugin.video.youtube/?action=play_video&videoid=YpkyndznjT8
+
 #EXTINF:1, Ζωόπολη Επεισόδιο 1
 plugin://plugin.video.dailymotion_com/?url=x5dsih8&mode=playVideo
 
