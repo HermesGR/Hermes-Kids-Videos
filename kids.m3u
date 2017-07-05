@@ -1,5 +1,50 @@
 #EXTM3U
 
+#EXTINF:1, Δύο Φανταστικοί Γονείς (Ελλ.Υπότιτλοι)
+plugin://plugin.video.youtube/?action=play_video&videoid=HkkZan-Mg_w
+
+#EXTINF:1, Tριπλός Μπελάς - Επεισόδιο 1
+plugin://plugin.video.youtube/?action=play_video&videoid=VhVFE8o5Xu0
+
+#EXTINF:1, Tριπλός Μπελάς - Επεισόδιο 2
+plugin://plugin.video.youtube/?action=play_video&videoid=ugGdEhesi8c
+
+#EXTINF:1, Tριπλός Μπελάς - Επεισόδιο 3
+plugin://plugin.video.youtube/?action=play_video&videoid=IzkjbgRw-ys
+
+#EXTINF:1, Tριπλός Μπελάς - Επεισόδιο 4
+plugin://plugin.video.youtube/?action=play_video&videoid=aEJVUT0JwQQ
+
+#EXTINF:1, Tριπλός Μπελάς - Επεισόδιο 5
+plugin://plugin.video.youtube/?action=play_video&videoid=8mXApTX2460
+
+#EXTINF:1, Tριπλός Μπελάς - Επεισόδιο 6
+plugin://plugin.video.youtube/?action=play_video&videoid=gFxaE810f9c
+
+#EXTINF:1, Tριπλός Μπελάς - Επεισόδιο 7
+plugin://plugin.video.youtube/?action=play_video&videoid=fjwE3j67O_g
+
+#EXTINF:1, Tριπλός Μπελάς - Επεισόδιο 8
+plugin://plugin.video.youtube/?action=play_video&videoid=EYtFltGjQqg
+
+#EXTINF:1, Tριπλός Μπελάς - Επεισόδιο 9
+plugin://plugin.video.youtube/?action=play_video&videoid=gydNI161CRc
+
+#EXTINF:1, Tριπλός Μπελάς - Επεισόδιο 10
+plugin://plugin.video.youtube/?action=play_video&videoid=goAxTkRSHLg
+
+#EXTINF:1, Hot Wheels Acceleracers - Έκρηξη Ταχύτητας
+plugin://plugin.video.youtube/?action=play_video&videoid=ciGZXSkVAjA
+
+#EXTINF:1, Hot Wheels Acceleracers - Η Απόλυτη Επιτάχυνση
+plugin://plugin.video.youtube/?action=play_video&videoid=Ee1RvomBBms
+
+#EXTINF:1, Hot Wheels Acceleracers - Μυστηριώδης Δύναμη  
+plugin://plugin.video.youtube/?action=play_video&videoid=hzqiy9T3QdM
+
+#EXTINF:1, Hot Wheels Acceleracers - Ο Τροχός Της Δύναμης
+plugin://plugin.video.youtube/?action=play_video&videoid=B_Pvsyp_b3s
+
 #EXTINF:1, Νιλς Χολγκερσον  Επεισόδιο 1
 plugin://plugin.video.youtube/?action=play_video&videoid=Afg-0Ft-Mhg
 
