@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 1
+plugin://plugin.video.youtube/?action=play_video&videoid=DPoW85gdM5s
+
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 2
+plugin://plugin.video.youtube/?action=play_video&videoid=ffFKyW-E3LU
+
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 3
+plugin://plugin.video.youtube/?action=play_video&videoid=4U0QzCQWwbM
+
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 4
+plugin://plugin.video.youtube/?action=play_video&videoid=4BoKcrvJdmg
+
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 5
+plugin://plugin.video.youtube/?action=play_video&videoid=u5l33sXrGew
+
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 6
+plugin://plugin.video.youtube/?action=play_video&videoid=hMX5H2pY0Xg
+
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 7
+plugin://plugin.video.youtube/?action=play_video&videoid=0LC5MYkcNcA
+
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 8
+plugin://plugin.video.youtube/?action=play_video&videoid=hSCjmqDurQM
+
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 9
+plugin://plugin.video.youtube/?action=play_video&videoid=Fmo-JPmuQNk
+
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 10
+plugin://plugin.video.youtube/?action=play_video&videoid=W9sj4awECVQ
+
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 11
+plugin://plugin.video.youtube/?action=play_video&videoid=FqPuxgQ-94M
+
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 12
+plugin://plugin.video.youtube/?action=play_video&videoid=yQ1D7l6p7NQ
+
 #EXTINF:1, Batman - Επεισόδιο 1
 plugin://plugin.video.youtube/?action=play_video&videoid=WuZTybXqXO4
 
