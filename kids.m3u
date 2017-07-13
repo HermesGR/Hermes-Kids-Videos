@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:1, Batman - Επεισόδιο 1
+plugin://plugin.video.youtube/?action=play_video&videoid=WuZTybXqXO4
+
+#EXTINF:1, Batman - Επεισόδιο 2
+plugin://plugin.video.youtube/?action=play_video&videoid=tUYFvZao2GA
+
+#EXTINF:1, Woody Ο Τρυποκάρυδος 
+plugin://plugin.video.youtube/?action=play_video&videoid=KKYRqw5UvPM
+
 #EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 1
 plugin://plugin.video.youtube/?action=play_video&videoid=NV_XIeBSH-U
 
