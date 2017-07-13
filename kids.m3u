@@ -168,6 +168,12 @@ plugin://plugin.video.dailymotion_com/?url=x57ge1&mode=playVideo
 #EXTINF:1,Ο Γουάι στο Παραμυθοχωριό - Ο πρίγκηπας βάτραχος
 plugin://plugin.video.youtube/?action=play_video&videoid=G5f0tYmhIro
 
+#EXTINF:1,Γκάρφιλντ - Η νύχτα της κουνελοπαντόφλας
+plugin://plugin.video.youtube/?action=play_video&videoid=Ucg-1F08LgE
+
+#EXTINF:1,Γκάρφιλντ - Αγάπη μου, συρρίκνωσα τα κατοικίδια
+plugin://plugin.video.youtube/?action=play_video&videoid=IMFfXGmswzo
+
 #EXTINF:1,Γκάρφιλντ - Μανιακός με τον έλεγχο
 plugin://plugin.video.youtube/?action=play_video&videoid=q24VaoEDh5c
 
