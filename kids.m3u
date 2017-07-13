@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 1
+plugin://plugin.video.youtube/?action=play_video&videoid=NV_XIeBSH-U
+
+#EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 2
+plugin://plugin.video.youtube/?action=play_video&videoid=_FZzypHyyA4
+
+#EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 3
+plugin://plugin.video.youtube/?action=play_video&videoid=KvrhLyXWCCs
+
+#EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 4
+plugin://plugin.video.youtube/?action=play_video&videoid=epIoeRYS_8U
+
+#EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 5
+plugin://plugin.video.youtube/?action=play_video&videoid=IyOgn0T-sOk
+
+#EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 6
+plugin://plugin.video.youtube/?action=play_video&videoid=pnarM4SS_Us
+
+#EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 7
+plugin://plugin.video.youtube/?action=play_video&videoid=ZaYTPsPbPoc
+
+#EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 8
+plugin://plugin.video.youtube/?action=play_video&videoid=fkCyjrv9iSI
+
+#EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 9
+plugin://plugin.video.youtube/?action=play_video&videoid=SXzcep0ntlI
+
+#EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 10
+plugin://plugin.video.youtube/?action=play_video&videoid=jCxM0U4vo94
+
 #EXTINF:1, Δύο Φανταστικοί Γονείς (Ελλ.Υπότιτλοι)
 plugin://plugin.video.youtube/?action=play_video&videoid=HkkZan-Mg_w
 
