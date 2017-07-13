@@ -9,6 +9,15 @@ plugin://plugin.video.youtube/?action=play_video&videoid=tUYFvZao2GA
 #EXTINF:1, Woody Ο Τρυποκάρυδος 
 plugin://plugin.video.youtube/?action=play_video&videoid=KKYRqw5UvPM
 
+#EXTINF:1, Super Wings - Επεισόδιο 1
+plugin://plugin.video.youtube/?action=play_video&videoid=Y3S99UUvgFQ
+
+#EXTINF:1, Super Wings - Επεισόδιο 2
+plugin://plugin.video.youtube/?action=play_video&videoid=5gPXQYR882M
+
+#EXTINF:1, Super Wings - Επεισόδιο 3
+plugin://plugin.video.youtube/?action=play_video&videoid=5SZLT2GS32g
+
 #EXTINF:1, Μπομπ Ο Μάστορας - Επεισόδιο 1
 plugin://plugin.video.youtube/?action=play_video&videoid=NV_XIeBSH-U
 
