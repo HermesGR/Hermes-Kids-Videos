@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 1
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 1 tvg-logo="https://www.παιχνιδιαπαζλ.com/imatjes/postman-pat-%CE%BC%CE%B5-%CE%BC%CE%BF%CF%84%CE%BF%CF%83%CE%B9%CE%BA%CE%BB%CE%AD%CF%84_54cfb3f519092-p.jpg"
 plugin://plugin.video.youtube/?action=play_video&videoid=DPoW85gdM5s
 
 #EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 2
