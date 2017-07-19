@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 1 
+#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 1 tvg-logo="https://www.παιχνιδιαπαζλ.com/imatjes/%CE%97-%CF%84%CE%B1%CF%87%CF%85%CE%B4%CF%81%CF%8C%CE%BC%CE%BF%CF%82-pat-clifton-_4fe0971fde4a7-p.png"
 plugin://plugin.video.youtube/?action=play_video&videoid=DPoW85gdM5s
 
 #EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 2
