@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 1, tvg-logo="special://home/media\Logos\postman-pat.png" 
+#EXTINF:-1 tvg-logo="special://home/media\Logos\postman-pat.png" , Ταχυδρόμος Πατ - Επεισόδιο 1
 plugin://plugin.video.youtube/?action=play_video&videoid=DPoW85gdM5s
 
 #EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 2 
