@@ -3,7 +3,7 @@
 #EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 1
 plugin://plugin.video.youtube/?action=play_video&videoid=DPoW85gdM5s
 
-EXTM3U
+#EXTM3U
 
 #EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 2 
 plugin://plugin.video.youtube/?action=play_video&videoid=ffFKyW-E3LU
