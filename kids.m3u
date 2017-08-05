@@ -1,5 +1,59 @@
 #EXTM3U
 
+#EXTINF:1, Κυνηγοί δράκων - By the book
+plugin://plugin.video.youtube/?action=play_video&videoid=glKxdkaMimY
+
+#EXTINF:1, Κυνηγοί δράκων - City bound
+plugin://plugin.video.youtube/?action=play_video&videoid=P5v8rm0myuo
+
+#EXTINF:1, Κυνηγοί δράκων - Compat spores
+plugin://plugin.video.youtube/?action=play_video&videoid=E_Jw1z9zdj8
+
+#EXTINF:1, Κυνηγοί δράκων - Drago Menta
+plugin://plugin.video.youtube/?action=play_video&videoid=wVQQv_NfO6w
+
+#EXTINF:1, Κυνηγοί δράκων - For a Few Veggies More
+plugin://plugin.video.youtube/?action=play_video&videoid=y2PE9WGg7YI
+
+#EXTINF:1, Κυνηγοί δράκων - Glad of the Mimikar
+plugin://plugin.video.youtube/?action=play_video&videoid=6-AffkgCcUo
+
+#EXTINF:1, Κυνηγοί δράκων - Hell around town
+plugin://plugin.video.youtube/?action=play_video&videoid=NlZToWrRlW4
+
+#EXTINF:1, Κυνηγοί δράκων - The body beautiful
+plugin://plugin.video.youtube/?action=play_video&videoid=KiTkPaX79bM
+
+#EXTINF:1, Κυνηγοί δράκων - The convoy
+plugin://plugin.video.youtube/?action=play_video&videoid=CNWY_2qSS3I
+
+#EXTINF:1, Κυνηγοί δράκων - The grand tournament
+plugin://plugin.video.youtube/?action=play_video&videoid=cRavSomLiAs
+
+#EXTINF:1, Λίο, το Λιονταράκι
+plugin://plugin.video.youtube/?action=play_video&videoid=ceej9gvQqtQ
+
+#EXTINF:1, Λούκυ Λουκ - Απαγορευμένη Αγάπη 
+plugin://plugin.video.youtube/?action=play_video&videoid=ROeJEGzPoYE
+
+#EXTINF:1, Λούκι Λουκ - Το Τέρας Της Αλαμπάμα
+plugin://plugin.video.youtube/?action=play_video&videoid=PDM6NwzK7yc
+
+#EXTINF:1, Λούκυ Λουκ - Η αντεπίθεση των Ντάλτον
+plugin://plugin.video.youtube/?action=play_video&videoid=SxXHzfRzhRU
+
+#EXTINF:1, Λούκυ Λουκ - Ο δάσκαλος
+plugin://plugin.video.youtube/?action=play_video&videoid=9n2Jm8HvZ6c
+
+#EXTINF:1, Λούκυ Λουκ - Οι Ντάλτον στο χακί
+plugin://plugin.video.youtube/?action=play_video&videoid=3rOgelnoK98
+
+#EXTINF:1, Λούκυ Λουκ - Ο Πόλεμος Των Γιατρών
+plugin://plugin.video.youtube/?action=play_video&videoid=cgTvlyF2rqk
+
+#EXTINF:1, Λούκυ Λουκ - Ένα Ράντσο Για Τους Ντάλτον
+plugin://plugin.video.youtube/?action=play_video&videoid=QMncZOmDXRw
+
 #EXTINF:1, Ταχυδρόμος Πατ - Επεισόδιο 1
 plugin://plugin.video.youtube/?action=play_video&videoid=DPoW85gdM5s
 
