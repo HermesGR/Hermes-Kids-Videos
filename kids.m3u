@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:1, Ο Αλαντίν και το μαγικό λυχνάρι
+plugin://plugin.video.youtube/?action=play_video&videoid=XpjqrSCvmFA
+
+#EXTINF:1, O Alibaba και οι 40 κλέφτες
+plugin://plugin.video.youtube/?action=play_video&videoid=b_iyfsH6tuw
+
+#EXTINF:1, Ο Ευτυχισμένος Πρίγκιπας
+plugin://plugin.video.youtube/?action=play_video&videoid=XtFOmBRwFSA
+
+#EXTINF:1,Η πριγκίπισσα και το μπιζέλι
+plugin://plugin.video.youtube/?action=play_video&videoid=4-2J6XckuJ8
+
+#EXTINF:1,Τα Καινούρια Ρούχα του Αυτοκράτορα 
+plugin://plugin.video.youtube/?action=play_video&videoid=f_GWyWZ9zuU
+
+#EXTINF:1, O Mάγος του Οζ
+plugin://plugin.video.youtube/?action=play_video&videoid=MhSxKRj9OG8
+
+#EXTINF:1, Η βασίλισσα του χιονιού 
+plugin://plugin.video.youtube/?action=play_video&videoid=bWwYEax1qls
+
+#EXTINF:1, Το Κοριτσάκι με Τα Σπίρτα 
+plugin://plugin.video.youtube/?action=play_video&videoid=O_2VWvETWBM
+
+#EXTINF:1, Ο Ποντικός του αγρού κι ο ποντικός της πόλης
+plugin://plugin.video.youtube/?action=play_video&videoid=kqvZlqH5xas
+
 #EXTINF:1, Κυνηγοί δράκων - By the book
 plugin://plugin.video.youtube/?action=play_video&videoid=glKxdkaMimY
 
