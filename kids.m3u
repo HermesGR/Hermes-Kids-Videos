@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:1, Ήρωες με πιτζάμες - Ο Κατμπόι και η πεταλουδοστρατιά tvg-logo="http://nextrack.atspace.com/de/DasErsteHD.png"
+#EXTINF:-1 tvg-name="Ήρωες με πιτζάμες - Ο Κατμπόι και η πεταλουδοστρατιά" tvg-logo="http://nextrack.atspace.com/de/DasErsteHD.png"
 plugin://plugin.video.youtube/?action=play_video&videoid=6pF3dZtyepo
 
 #EXTINF:1, Ήρωες με πιτζάμες - Η Ολέτ και η φεγγαρόμπαλα
