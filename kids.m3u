@@ -3,6 +3,15 @@
 #EXTINF:1, Ιούλιος Βέρν: Ο Γύρος του Κόσμου σε 80 Ημέρες
 plugin://plugin.video.youtube/?action=play_video&videoid=nMBQ5LfFAFE
 
+#EXTINF:1, Ιούλιος Βέρν: 20.000 Λεύγες κάτω από τη Θάλασσα 
+plugin://plugin.video.youtube/?action=play_video&videoid=6Jf0HeM0rPw
+
+#EXTINF:1, Ιούλιος Βέρν: Το Μυστηριώδες Νησί
+plugin://plugin.video.youtube/?action=play_video&videoid=7A6cCGStAbY
+
+#EXTINF:1, Ιούλιος Βέρν: Ταξίδι στο Κέντρο της Γης
+plugin://plugin.video.youtube/?action=play_video&videoid=sBRB4VToA2A
+
 #EXTINF:1, Ένα δέντρο μια φορά
 plugin://plugin.video.youtube/?action=play_video&videoid=Lal-RBkMVrA
 
