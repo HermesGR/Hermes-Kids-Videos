@@ -1,5 +1,38 @@
 #EXTM3U
 
+#EXTINF:1, Ιούλιος Βέρν: Ο Γύρος του Κόσμου σε 80 Ημέρες
+plugin://plugin.video.youtube/?action=play_video&videoid=nMBQ5LfFAFE
+
+#EXTINF:1, Ένα δέντρο μια φορά
+plugin://plugin.video.youtube/?action=play_video&videoid=Lal-RBkMVrA
+
+#EXTINF:1, Ονειρούπολη Δράμας - Παιδική Ταινία 3D
+plugin://plugin.video.youtube/?action=play_video&videoid=B93kv-57Qf8
+
+#EXTINF:1, Ο Φιλαργυρος Σκρουτζ - Μερος 1
+plugin://plugin.video.youtube/?action=play_video&videoid=_Z-NWwq6l2s
+
+#EXTINF:1, Ο Φιλαργυρος Σκρουτζ - Μερος 2
+plugin://plugin.video.youtube/?action=play_video&videoid=gIIKN-Baa-Q
+
+#EXTINF:1, Ο Αστερίξ και οι Βίκινγκς
+plugin://plugin.video.youtube/?action=play_video&videoid=XhbLMFR7rLY
+
+#EXTINF:1, O Αστερίξ και η έκπληξη του Καίσαρα
+plugin://plugin.video.youtube/?action=play_video&videoid=CM9UdSLcIC4
+
+#EXTINF:1, Αστερίξ εναντίον Καίσαρα
+plugin://plugin.video.youtube/?action=play_video&videoid=3qWY8sPVURM
+
+#EXTINF:1, Αστερίξ στους Ινδιάνους
+plugin://plugin.video.youtube/?action=play_video&videoid=fzYKeV489i8
+
+#EXTINF:1, Ο Άη Βασίλης έρχεται στην πόλη ξανά 
+plugin://plugin.video.youtube/?action=play_video&videoid=rjWpHO0F9sU
+
+#EXTINF:1,Η Πεντάμορφη και το Τέρας
+plugin://plugin.video.youtube/?action=play_video&videoid=ER-hztwLl5M
+
 #EXTINF:1, Ήρωες με πιτζάμες - Ο Κατμπόι και η πεταλουδοστρατιά
 plugin://plugin.video.youtube/?action=play_video&videoid=6pF3dZtyepo
 
