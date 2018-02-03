@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:1, Τα Πέντε Μπιζέλια - Παραμύθι
+plugin://plugin.video.youtube/?action=play_video&videoid=AdcIevdN1mI
+
+#EXTINF:1, Το Δέρμα του Καπαρου - Παραμύθι
+plugin://plugin.video.youtube/?action=play_video&videoid=XjwnrHoMRCY
+
+#EXTINF:1, Ο Ήλιος και το Φεγγάρι - Παραμύθι
+plugin://plugin.video.youtube/?action=play_video&videoid=-KeLQoG-VdA
+
+#EXTINF:1, Το Ποντικάκι που ήταν Πριγκίπισσα - Παραμύθι
+plugin://plugin.video.youtube/?action=play_video&videoid=FmzAkgncdr4
+
+#EXTINF:1, Μικρές Κυρίες - Παραμύθι
+plugin://plugin.video.youtube/?action=play_video&videoid=lcD5HyZRpyg
+
+#EXTINF:1, Οι Άγριοι Κύκνοι - Παραμύθι
+plugin://plugin.video.youtube/?action=play_video&videoid=ZtMDf3XyOqE
+
 #EXTINF:1, Ιούλιος Βέρν: Ο Γύρος του Κόσμου σε 80 Ημέρες
 plugin://plugin.video.youtube/?action=play_video&videoid=nMBQ5LfFAFE
 
