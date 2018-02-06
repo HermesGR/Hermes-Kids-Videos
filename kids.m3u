@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:1, Υποβρύχιο ''Κεραυνός'' Μέρος 1
+plugin://plugin.video.youtube/?action=play_video&videoid=4oluwCpp_dQ
+
+#EXTINF:1, Υποβρύχιο ''Κεραυνός'' Μέρος 2
+plugin://plugin.video.youtube/?action=play_video&videoid=87mS4meBq9M
+
+#EXTINF:1, Υποβρύχιο ''Κεραυνός'' Μέρος 3
+plugin://plugin.video.youtube/?action=play_video&videoid=VR8v6IdXGMw
+
+#EXTINF:1, 60' Λεπτά Στρουμφάκια (Συλλογή 1)
+plugin://plugin.video.youtube/?action=play_video&videoid=IhNBD3tVPCA
+
+#EXTINF:1, 60' Λεπτά Στρουμφάκια (Συλλογή 2)
+plugin://plugin.video.youtube/?action=play_video&videoid=y_x8ZkSG-iQ
+
+#EXTINF:1, 45' Λεπτα Μπομπ Ο Μάστορας (Συλλογή 1)
+plugin://plugin.video.youtube/?action=play_video&videoid=MVhu7kBM5do
+
+#EXTINF:1, 45' Λεπτα Μπομπ Ο Μάστορας (Συλλογή 2)
+plugin://plugin.video.youtube/?action=play_video&videoid=OcfCTkfD-E0
+
+#EXTINF:1, 45' Λεπτα Μπομπ Ο Μάστορας (Συλλογή 3)
+plugin://plugin.video.youtube/?action=play_video&videoid=jzoA-GL6_9o
+
+#EXTINF:1, 45' Λεπτα Μπομπ Ο Μάστορας (Συλλογή 4)
+plugin://plugin.video.youtube/?action=play_video&videoid=9n6A1YrTS1M
+
+#EXTINF:1, 45' Λεπτα Μπομπ Ο Μάστορας (Συλλογή 5)
+plugin://plugin.video.youtube/?action=play_video&videoid=h0kc_wDvUF4
+
 #EXTINF:1, Τα Πέντε Μπιζέλια - Παραμύθι
 plugin://plugin.video.youtube/?action=play_video&videoid=AdcIevdN1mI
 
