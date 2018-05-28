@@ -1,5 +1,89 @@
 #EXTM3U
 
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 1, μέρος 1ο
+plugin://plugin.video.youtube/?action=play_video&videoid=jxK0SY722PY
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 1, μέρος 2ο
+plugin://plugin.video.youtube/?action=play_video&videoid=56sFgb-g1FY
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 2, μέρος 1ο
+plugin://plugin.video.youtube/?action=play_video&videoid=Dev3FUO3IEg
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 2, μέρος 2o
+plugin://plugin.video.youtube/?action=play_video&videoid=WPViwKSVbys
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 3, μέρος 1o
+plugin://plugin.video.youtube/?action=play_video&videoid=XQZKZyENzJM
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 3, μέρος 2o
+plugin://plugin.video.youtube/?action=play_video&videoid=0tigMeQ7eC8
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 4, μέρος 1o
+plugin://plugin.video.youtube/?action=play_video&videoid=iwuo-ZjWG4Y
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 4, μέρος 2o
+plugin://plugin.video.youtube/?action=play_video&videoid=kGxCdkTuzyk
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 5, μέρος 1ο
+plugin://plugin.video.youtube/?action=play_video&videoid=T1ZIPHYcsNw
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 5, μέρος 2ο
+plugin://plugin.video.youtube/?action=play_video&videoid=XOP0v2eqUOU
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 6, μέρος 1ο
+plugin://plugin.video.youtube/?action=play_video&videoid=tFv7v-QtoQk
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 6, μέρος 2ο
+plugin://plugin.video.youtube/?action=play_video&videoid=hAzZ26WoIHI
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 7, μέρος 1ο
+plugin://plugin.video.youtube/?action=play_video&videoid=yP37i_HUjhs
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 7, μέρος 2ο
+plugin://plugin.video.youtube/?action=play_video&videoid=MtI9IZYy8Js
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 8, μέρος 1ο
+plugin://plugin.video.youtube/?action=play_video&videoid=b_coU8FeewA
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 9, μέρος 1ο
+plugin://plugin.video.youtube/?action=play_video&videoid=4YufWCllBWM
+
+#EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 9, μέρος 2ο
+plugin://plugin.video.youtube/?action=play_video&videoid=nR91Ryl96zk
+
+#EXTINF:1, LEGO® CHIMA™. Επεισόδιο 10, μέρος 1o
+plugin://plugin.video.youtube/?action=play_video&videoid=ZEwDqMY7ECA
+
+#EXTINF:1, LEGO® CHIMA™. Επεισόδιο 10, μέρος 2o
+plugin://plugin.video.youtube/?action=play_video&videoid=qSVZN1T3ais
+
+#EXTINF:1, LEGO® CHIMA™. Επεισόδιο 11, μέρος 1o
+plugin://plugin.video.youtube/?action=play_video&videoid=fkUwY673jww
+
+#EXTINF:1, LEGO® CHIMA™. Επεισόδιο 11, μέρος 2o
+plugin://plugin.video.youtube/?action=play_video&videoid=zSEnduA2AL8
+
+#EXTINF:1, LEGO® CHIMA™. Επεισόδιο 12, μέρος 1o
+plugin://plugin.video.youtube/?action=play_video&videoid=6CSx9-5wpws
+
+#EXTINF:1, LEGO® CHIMA™. Επεισόδιο 12, μέρος 2o
+plugin://plugin.video.youtube/?action=play_video&videoid=brsROnb9KfQ
+
+#EXTINF:1, LEGO® CHIMA™. Επεισόδιο 13, μέρος 2o
+plugin://plugin.video.youtube/?action=play_video&videoid=vgktSPbfUNE
+
+#EXTINF:1, LEGO® CHIMA™. Επεισόδιο 14, μέρος 1o
+plugin://plugin.video.youtube/?action=play_video&videoid=AbYxZYt0ITk
+
+#EXTINF:1, LEGO® CHIMA™. Επεισόδιο 14, μέρος 2o
+plugin://plugin.video.youtube/?action=play_video&videoid=joPeIQ-EpGU
+
+#EXTINF:1, LEGO® CHIMA™. Επεισόδιο 15, μέρος 1ο
+plugin://plugin.video.youtube/?action=play_video&videoid=_Awp9zR3Vzo
+
+#EXTINF:1, LEGO® CHIMA™. Επεισόδιο 15, μέρος 2ο
+plugin://plugin.video.youtube/?action=play_video&videoid=_h4PbGzaQdU
+
 #EXTINF:1, LEGO® NINJAGO - ΤΟ ΞΥΠΝΗΜΑ ΤΩΝ ΦΙΔΙΩΝ - ΕΠΕΙΣΟΔΙΟ 1ο - ΜΕΡΟΣ Α
 plugin://plugin.video.youtube/?action=play_video&videoid=etO9Wi9dwP4
 
