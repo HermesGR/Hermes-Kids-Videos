@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:1, TEST
-plugin://plugin.video.youtube/?action=playlist?list=PLbfUyubXdXyHe9S5l0IXY_tvhF1b0xSss
-
 #EXTINF:1, LEGO® Legends of CHIMA™. Επεισόδιο 1, μέρος 1ο
 plugin://plugin.video.youtube/?action=play_video&videoid=jxK0SY722PY
 
